@@ -1,0 +1,67 @@
+---
+---
+
+{{ reference | replace_first: 'F. LastName', '<b>F. LastName</b>'}}
+
+{% assign slides_exists = false %}
+{% capture path_to_slides %}/assets/pdfs/{{ entry.key }}_slides.pdf{% endcapture %}
+{% for static_file in site.static_files %}
+    {% if static_file.path contains path_to_slides %}
+        {% assign slides_exists = true %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+
+{% assign poster_exists = false %}
+{% capture path_to_poster %}/assets/pdfs/{{ entry.key }}_poster.pdf{% endcapture %}
+{% for static_file in site.static_files %}
+    {% if static_file.path contains path_to_poster %}
+        {% assign poster_exists = true %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+
+<div class="btn-group">
+    {% if entry.url %}
+        <a class="btn" href="{{ entry.url }}">
+            <i class="fa fa-newspaper"></i>
+            <span>paper</span>
+        </a>
+    {% endif %}
+
+    {% if entry.arxivid %}
+        <a class="btn" href="https://arxiv.org/abs/{{ entry.arxivid }}">
+            <i class="ai ai-arxiv"></i>
+            <span>arXiv</span>
+        </a>
+    {% endif %}
+
+    {% if entry.code %}
+        <a class="btn" href="{{ entry.code }}">
+            <i class="fab fa-fw fa-github"></i>
+            <span>code</span>
+        </a>
+    {% endif %}
+
+    {% if entry.video %}
+        <a class="btn" href="{{ entry.video }}">
+            <i class="fa fa-tv"></i>
+            <span>video</span>
+        </a>
+    {% endif %}
+
+    {% if slides_exists %}
+        <a class="btn" href="{{ path_to_slides }}">
+            <i class="fa fa-image"></i>
+            <span>slides</span>
+        </a>
+    {% endif %}
+
+    {% if poster_exists %}
+        <a class="btn" href="{{ path_to_poster }}">
+            <i class="fa fa-map"></i>
+            <span>poster</span>
+        </a>
+    {% endif %}
+
+</div>

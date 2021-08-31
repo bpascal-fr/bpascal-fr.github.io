@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Quick-Start Guide"
+    url: https://github.com/CRIStAL-Sigma/cristal-sigma.github.io/blob/master/README.md
