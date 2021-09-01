@@ -8,8 +8,9 @@ I am currently a postdoctoral researcher at [CRIStAL](https://www.cristal.univ-l
 
 ## Research interests
 
-My postdoctoral project consists in investigating *extended* **time-frequency transforms**.
-I am interested in the **statistics** of the zeros of the transform of white Gaussian noise, and in particular with their potential link with the complex zeros of **Gaussian Analytic Functions**.
+My postdoctoral project focuses on the construction and study of *extended* **time-frequency transforms**.
+I am interested in the **statistics** of the zeros of the transform of white Gaussian noise.
+In particular, I investigates their potential link with the complex zeros of **Gaussian Analytic Functions**.
 
 <div align="middle" style="margin-top: 50px">
   <a href="http://www.cnrs.fr/en"><img class='logo' alt="logo_cnrs" src="assets/images/logo_cnrs.png" align="bottom" style="width:100px;height:100px;"></a>
