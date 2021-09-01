@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
@@ -132,7 +132,7 @@ author:
     dryad:
     elsevier:
     figshare:
-    google-scholar: "https://scholar.google.com/citations?user=<user-id>=en"
+    google-scholar: "https://scholar.google.com/citations?user=7JmyjMMAAAAJ&hl=fr&oi=ao"
     hal:
     hypothesis:
     ideas-repec:
@@ -181,10 +181,10 @@ author:
     # uncomment url to make link appear
     - label: "Email" # used above
       icon: "fas fa-fw fa-envelope"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:barbara.pascal@univ-lille.fr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://<webpage-link>"
+      url: "https://bpascal-fr.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -193,7 +193,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/CRIStAL-Sigma"
+      url: "https://github.com/bpascal-fr"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -211,7 +211,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/CRIStAL-Sigma"
+      url: "https://github.com/bpascal-fr"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
