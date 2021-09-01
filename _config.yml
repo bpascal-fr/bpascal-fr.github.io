@@ -184,7 +184,7 @@ author:
       url: "mailto:barbara.pascal@univ-lille.fr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://bpascal-fr.github.io"
+      # url: "https://bpascal-fr.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
