@@ -309,7 +309,7 @@ scholar:
     reversed: "reversed"
 
   source: _bibliography # where .bib files are saved
-  bibliography: bibliography.bib # .bib file
+  bibliography: bpascal.bib # .bib file
   # Custom bibliography display in _layouts/bibliography.html
   bibliography_template: bibliography
 
