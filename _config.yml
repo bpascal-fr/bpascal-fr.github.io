@@ -15,15 +15,15 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "d
 
 # Site Settings
 locale: "en-US"
-title: "Site Title"
+title: "Post-doctoral researcher in data science"
 title_separator: "-"
-subtitle: "subtitle" # site tagline that appears below site title in masthead
-name: "FirstName LastName"
+subtitle: "Signal and image processing, machine learning, statistics" # site tagline that appears below site title in masthead
+name: "Barbara Pascal"
 description: "Description"
-github: [metadata]
-url: "https://cristal-sigma.github.io"
+github: [bpascal-fr]
+url: "https://bpascal-fr.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "CRIStAL-Sigma/cristal-sigma.github.io"
+repository: "bpascal-fr/bpascal-fr.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -97,13 +97,13 @@ analytics:
 # _includes/author-profile.html
 # _includes/author-profile-custom-links.html
 author:
-  name: "FirstName LastName"
+  name: "Barbara Pascal"
   avatar: "/assets/images/bio-photo.jpg"
   bio: "My short bio<br>Second line<br>"
   location: "Lille, France"
-  email: "my.name@email.com"
-  github: "CRIStAL-Sigma"
-  webpage: "https://cristal-sigma.github.io"
+  email: "barbara.pascal@univ-lille.fr"
+  github: "bpascal-fr"
+  webpage: "https://bpascal-fr.github.io"
   # Academic profiles
   # To make logo+link appear in author_profile on the left side of the page
   # - fill the corresponding field
@@ -153,7 +153,7 @@ author:
     open-materials:
     obp:
     openedition:
-    orcid: "https://orcid.org/<orcid-id>"
+    orcid: "https://orcid.org/0000-0003-2335-2693"
     osf:
     overleaf:
     philpapers:
