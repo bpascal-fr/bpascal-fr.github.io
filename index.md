@@ -4,7 +4,7 @@ author_profile: true
 classes: wide
 ---
 
-I am currently a XXX at [CRIStAL](https://www.cristal.univ-lille.fr/) in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille.
+I am currently a postdoctoral researcher at [CRIStAL](https://www.cristal.univ-lille.fr/) in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille, in the group of [Rémi Bardenet](https://rbardenet.github.io/) participating to  the ERC project **Blackjack**.
 
 Here's what I do...
 ## Research interests
