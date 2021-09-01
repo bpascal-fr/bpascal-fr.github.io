@@ -98,7 +98,7 @@ analytics:
 # _includes/author-profile-custom-links.html
 author:
   name: "Barbara Pascal"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/photo.jpg"
   bio: "My short bio<br>Second line<br>"
   location: "Lille, France"
   email: "barbara.pascal@univ-lille.fr"
