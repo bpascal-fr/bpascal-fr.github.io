@@ -33,7 +33,6 @@ toc_sticky: true
 
 <!-- See also https://github.com/inukshuk/jekyll-scholar to customize your references -->
 
-This is a mock example: the references are not correct!
 
 <!-- Preprints -->
 {% capture counter_preprints %}{% bibliography_count --query @unpublished %}{% endcapture %}
