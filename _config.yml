@@ -181,7 +181,7 @@ author:
     # uncomment url to make link appear
     - label: "Email" # used above
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:barbara.pascal@univ-lille.fr"
+      # url: "mailto:barbara.pascal@univ-lille.fr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://bpascal-fr.github.io"
