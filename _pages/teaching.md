@@ -15,14 +15,14 @@ Practical exercises **14h**
 ## [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr/), France
 
 > [Master of Applied Mathematics and Statistics](http://mastermas.univ-lyon1.fr/index.php/page3-2/)  
-**Nonsmooth convex optimization** - (Second year of master) *2018-2019, 2020-2021*  
+**Nonsmooth convex optimization** - (2nd year of master) *2018-2019, 2020-2021*  
 Lectures and practical exercises **6h+1h30**  
 From the lecture notes of [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik)
 
 ## [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France
 
 > [Master of Physics, concepts and applications](http://www.ens-lyon.fr/MasterSDM/fr/master-1)  
-**Signal and image processing** - (First year of master) *2017-2018, 2018-2019, 2019-2020*  
+**Signal and image processing** - (1st year of master) *2017-2018, 2018-2019, 2019-2020*  
 Practical and numerical exercises **8h**  
 
 * Autoregressive processes, spectral v.s. parametric estimation
