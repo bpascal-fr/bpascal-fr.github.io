@@ -8,6 +8,14 @@ title: "Teaching"
 
 ## [École Centrale Lille](https://centralelille.fr/), France
 
-> Core training of 1st year (Bachelor in engineering)
+> Core training of 1st year (Bachelor in engineering)  
 **Measure theory and Lebesgue integration**   *2021-2022*  
 Practical exercises **14h**
+
+## [Université Claude Bernard Lyon 1](), France
+
+> [Master of Applied Mathematics and Statistics](http://mastermas.univ-lyon1.fr/index.php/page3-2/)
+
+**Nonsmooth convex optimization** - (Second year of master) *2018-2019, 2020-2021*  
+Lectures and practical exercises **6h+1h30**  
+From the lecture notes of [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik)
