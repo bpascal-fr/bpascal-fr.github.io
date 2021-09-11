@@ -24,5 +24,8 @@ From the lecture notes of [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.puste
 > [Master of Physics, concepts and applications](http://www.ens-lyon.fr/MasterSDM/fr/master-1)  
 **Signal and image processing** - (First year of master) *2017-2018, 2018-2019, 2019-2020*  
 Practical and numerical exercises **8h**  
-|Autoregressive processes, spectral v.s. parametric estimation|Optimal filtering|  
-|Non-stationary signals|Deconvolution and image processing|
+
+* Autoregressive processes, spectral v.s. parametric estimation
+* Optimal filtering
+* Non-stationary signals
+* Deconvolution and image processing
