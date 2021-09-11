@@ -12,10 +12,9 @@ title: "Teaching"
 **Measure theory and Lebesgue integration**   *2021-2022*  
 Practical exercises **14h**
 
-## [Université Claude Bernard Lyon 1](), France
+## [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr/), France
 
-> [Master of Applied Mathematics and Statistics](http://mastermas.univ-lyon1.fr/index.php/page3-2/)
-
+> [Master of Applied Mathematics and Statistics](http://mastermas.univ-lyon1.fr/index.php/page3-2/)  
 **Nonsmooth convex optimization** - (Second year of master) *2018-2019, 2020-2021*  
 Lectures and practical exercises **6h+1h30**  
 From the lecture notes of [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik)
