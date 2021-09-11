@@ -18,3 +18,11 @@ Practical exercises **14h**
 **Nonsmooth convex optimization** - (Second year of master) *2018-2019, 2020-2021*  
 Lectures and practical exercises **6h+1h30**  
 From the lecture notes of [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik)
+
+## [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France
+
+> [Master of Physics, concepts and applications](http://www.ens-lyon.fr/MasterSDM/fr/master-1)  
+**Signal and image processing** - (First year of master) *2017-2018, 2018-2019, 2019-2020*  
+Practical and numerical exercises **8h**  
+|Autoregressive processes, spectral v.s. parametric estimation|Optimal filtering|  
+|Non-stationary signals|Deconvolution and image processing|
