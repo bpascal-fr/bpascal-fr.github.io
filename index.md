@@ -6,6 +6,7 @@ classes: wide
 
 I am currently a postdoctoral researcher at [CRIStAL](https://www.cristal.univ-lille.fr/) in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille, in the group of [Rémi Bardenet](https://rbardenet.github.io/), participating to  the ERC project **Blackjack**.
 
+Here is a detailed curriculum vitae [in english](assets/pdfs/CV_en.pdf) and [in french](assets/pdfs/CV_fr.pdf).
 ## Research interests
 
 My postdoctoral project focuses on the construction and study of *extended* **time-frequency transforms**.
