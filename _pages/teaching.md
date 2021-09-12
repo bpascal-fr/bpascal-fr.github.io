@@ -28,3 +28,12 @@ Practical and numerical exercises **8h**
 * Optimal filtering
 * Non-stationary signals
 * Deconvolution and image processing
+
+> [Bachelor of Physics](http://www.ens-lyon.fr/MasterSDM/fr/licence-3)  
+**Signal processing** - (3rd year of bachelor) *2018-2019, 2019-2020*  
+Practical exercises **8h**
+
+* Random variables
+* Spectral estimation
+* Random processes and estimation
+* Statistical tests
