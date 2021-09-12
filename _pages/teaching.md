@@ -32,8 +32,12 @@ Practical and numerical exercises **8h**
 > [Bachelor of Physics](http://www.ens-lyon.fr/MasterSDM/fr/licence-3)  
 **Signal processing** - (3rd year of bachelor) *2018-2019, 2019-2020*  
 Practical exercises **8h**
-
 * Random variables
 * Spectral estimation
 * Random processes and estimation
 * Statistical tests
+**Introduction to LaTeX** - (3rd year of bachelor) *2017-2018, 2018-2019, 2019-2020*  
+Exercises and implementation **6h**
+* Create a document
+* Insert tables, figures and mathematical formula
+* Using BibTeX to generate a bibliography
