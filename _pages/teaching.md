@@ -46,3 +46,11 @@ Exercises and implementation **6h**
 * Create a document
 * Insert tables, figures and mathematical formula
 * Using BibTeX to generate a bibliography
+
+### [Master Complex Systems - IXXI](http://www.ens-lyon.fr/MasterSDM/fr/master-2/m2-systemes-complexes)
+
+> **Statistical physics** - (2nd year of master) *2017-2018, 2018-2019, 2019-2020*  
+Practical exercises **8h**
+* Statistical ensembles
+* Phase transitions
+* Disordered systems
