@@ -12,4 +12,4 @@ Penalized Least Squares are widely used in signal and image processing. Yet, it 
 
 [GitHub](https://github.com/bpascal-fr/gsugar) (Matlab toolbox)  
 
-B. Pascal, S. Vaiter, N. Pustelnik, and P. Abry, *Automated data-driven selection of the hyperparameters for Total-Variation based texture segmentation,* [arxiv](https://arxiv.org/abs/2004.09434)
+B. Pascal, S. Vaiter, N. Pustelnik, and P. Abry (2021). Automated data-driven selection of the hyperparameters for Total-Variation based texture segmentation. *J. Math. Imaging Vis.,* 1–30. [arxiv](https://arxiv.org/abs/2004.09434)
