@@ -35,7 +35,8 @@ Practical exercises **8h**
 * Random variables
 * Spectral estimation
 * Random processes and estimation
-* Statistical tests  
+* Statistical tests
+
 **Introduction to LaTeX** - (3rd year of bachelor) *2017-2018, 2018-2019, 2019-2020*  
 Exercises and implementation **6h**
 * Create a document
