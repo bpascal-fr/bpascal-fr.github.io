@@ -55,9 +55,10 @@ Practical exercises **8h**
 * Phase transitions
 * Disordered systems
 
-### [Formation à l'Enseignement, Agrégation et Développement Professionnel](http://mathematiques.ens-lyon.fr/agregation-224737.kjsp?RH=1403617207802&RF=DPT-MATH-AGREG) *(Master degree for teaching in high school)*
+### [Formation à l'Enseignement, Agrégation et Développement Professionnel](http://mathematiques.ens-lyon.fr/agregation-224737.kjsp?RH=1403617207802&RF=DPT-MATH-AGREG)  
+*(Master degree for teaching in high school)*
 
-> **Préparation à l'agrégation de mathématiques** -(2nd year of master)  *2017-2018, 2018-2019, 2019-2020*  
+> **Préparation à l'agrégation de mathématiques**  *2017-2018, 2018-2019, 2019-2020*  
 *(Intensive preparation to the french examination for becoming high school teacher)*  
 Correction of lessons during the training for final oral examination **16h**
 * Training for oral exam
