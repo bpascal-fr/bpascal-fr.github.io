@@ -23,6 +23,19 @@ From the lecture notes of [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.puste
 
 ## [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France
 
+### [Formation à l'Enseignement, Agrégation et Développement Professionnel](http://mathematiques.ens-lyon.fr/agregation-224737.kjsp?RH=1403617207802&RF=DPT-MATH-AGREG)  
+*(Master degree for teaching in high school)*
+
+> **Préparation à l'agrégation de mathématiques**  *2017-2018, 2018-2019, 2019-2020*  
+*(Intensive preparation to the french examination for becoming high school teacher)*  
+Correction of lessons during the training for final oral examination **16h**
+* Training for oral exam
+* Supervision and evaluation  of the preparation and presentation of lessons
+
+### [Classes préparatoires à l'enseignement supérieur](http://www.ens-lyon.fr/formation/offre-de-formation/cpes/cpes-scientifique) (CPES)
+
+> **Mathematics** *2017-2018, 2018-2019, 2019-2020*  
+Colles *(oral examinations)*  **28h**
 ### [Master of Physics, concepts and applications](http://www.ens-lyon.fr/MasterSDM/fr/master-1)
 
 > **Signal and image processing** - (1st year of master) *2017-2018, 2018-2019, 2019-2020*  
@@ -54,17 +67,3 @@ Practical exercises **8h**
 * Statistical ensembles
 * Phase transitions
 * Disordered systems
-
-### [Formation à l'Enseignement, Agrégation et Développement Professionnel](http://mathematiques.ens-lyon.fr/agregation-224737.kjsp?RH=1403617207802&RF=DPT-MATH-AGREG)  
-*(Master degree for teaching in high school)*
-
-> **Préparation à l'agrégation de mathématiques**  *2017-2018, 2018-2019, 2019-2020*  
-*(Intensive preparation to the french examination for becoming high school teacher)*  
-Correction of lessons during the training for final oral examination **16h**
-* Training for oral exam
-* Supervision and evaluation  of the preparation and presentation of lessons
-
-### [Classes préparatoires à l'enseignement supérieur](http://www.ens-lyon.fr/formation/offre-de-formation/cpes/cpes-scientifique) (CPES)
-
-> **Mathematics** *2017-2018, 2018-2019, 2019-2020*  
-Colles *(oral examinations)*  **28h**
