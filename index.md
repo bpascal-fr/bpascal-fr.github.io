@@ -10,8 +10,11 @@ Here is a detailed curriculum vitae [in english](assets/pdfs/CV_en.pdf) and [in 
 ## Research interests
 
 My postdoctoral project focuses on the construction and study of *extended* **time-frequency transforms**.
-I am interested in the **statistics** of the zeros of the transform of white Gaussian noise.
-In particular, I investigates their potential link with the complex zeros of **Gaussian Analytic Functions**.
+I am interested in the **statistics** of the random point process consisting of the zeros of the transform of white Gaussian noise.
+In particular, I investigates their potential link with the complex zeros of **Gaussian Analytic Functions**.  
+For this purpose, I focus on an **algebraic** formulation of generalized time-frequency transforms.
+Further, I intend to benefits from a parallel with the quantum theory of coherent states.
+I am currently working on this project under supervision of [Rémi Bardenet](https://rbardenet.github.io/), and in collaboration with Alexandre Feller.
 
 <div align="middle" style="margin-top: 50px">
   <a href="http://www.cnrs.fr/en"><img class='logo' alt="logo_cnrs" src="assets/images/logo_cnrs.png" align="bottom" style="width:100px;height:100px;"></a>
