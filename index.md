@@ -17,7 +17,7 @@ Further, I intend to benefits from a parallel with the quantum theory of **coher
 I am currently working on this project under supervision of [Rémi Bardenet](https://rbardenet.github.io/), and in collaboration with Alexandre Feller.
 
 <div align="middle">
-<img width="200" src="zeros_charlier.png" align="center">
+<img width="200" src="assets/images/zeros_charlier.png" align="center">
         <p align="center">Spectrogram zeros</p>
 </div>
 
