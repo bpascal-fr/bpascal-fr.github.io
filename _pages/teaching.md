@@ -63,3 +63,8 @@ Practical exercises **8h**
 Correction of lessons during the training for final oral examination **16h**
 * Training for oral exam
 * Supervision and evaluation  of the preparation and presentation of lessons
+
+### [Classes préparatoires à l'enseignement supérieur](http://www.ens-lyon.fr/formation/offre-de-formation/cpes/cpes-scientifique) (CPES)
+
+> **Mathematics** *2017-2018, 2018-2019, 2019-2020*  
+Colles *(oral examinations)*  **28h**
