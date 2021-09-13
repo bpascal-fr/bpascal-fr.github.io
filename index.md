@@ -16,6 +16,11 @@ For this purpose, I focus on an **algebraic** formulation of generalized time-fr
 Further, I intend to benefits from a parallel with the quantum theory of **coherent states**.
 I am currently working on this project under supervision of [Rémi Bardenet](https://rbardenet.github.io/), and in collaboration with Alexandre Feller.
 
+<div align="middle">
+<img width="200" src="zeros_charlier.png" align="center">
+        <p align="center">Spectrogram zeros</p>
+</div>
+
 <div align="middle" style="margin-top: 50px">
   <a href="http://www.cnrs.fr/en"><img class='logo' alt="logo_cnrs" src="assets/images/logo_cnrs.png" align="bottom" style="width:100px;height:100px;"></a>
 
