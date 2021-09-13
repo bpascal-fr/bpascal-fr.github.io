@@ -8,9 +8,9 @@ title: "Teaching"
 
 ## [École Centrale Lille](https://centralelille.fr/), France
 
-### Core training of 1st year (Bachelor in engineering)
+### [Engineering degree](https://ecole.centralelille.fr/)
 
-> **Measure theory and Lebesgue integration**   *2021-2022*  
+> **Measure theory and Lebesgue integration**  (1st year, core training) *2021-2022*  
 Practical exercises **14h**
 
 ## [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr/), France
