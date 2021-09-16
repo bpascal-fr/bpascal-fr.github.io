@@ -18,7 +18,7 @@ Practical exercises **14h**
 ### [Master of Applied Mathematics and Statistics](http://mastermas.univ-lyon1.fr/index.php/page3-2/)
 
 > **Nonsmooth convex optimization** - (2nd year of master) *2018-2019, 2020-2021*  
-Lectures and practical exercises **6h+1h30**  
+Lectures and numerical implementation (Python) **6h+1h30**  
 From the lecture notes of [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik)
 
 ## [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France
@@ -39,7 +39,7 @@ Colles *(oral examinations)*  **28h**
 ### [Master of Physics, concepts and applications](http://www.ens-lyon.fr/MasterSDM/fr/master-1)
 
 > **Signal and image processing** - (1st year of master) *2017-2018, 2018-2019, 2019-2020*  
-Practical and numerical exercises **8h**
+Practical and numerical implementation (Matlab) **8h**
 * Autoregressive processes, spectral v.s. parametric estimation
 * Optimal filtering
 * Non-stationary signals
@@ -55,7 +55,7 @@ Practical exercises **8h**
 * Statistical tests
 
 > **Introduction to LaTeX** - (3rd year of bachelor) *2017-2018, 2018-2019, 2019-2020*  
-Exercises and implementation **6h**
+Exercises and implementation (Texmaker, Zotero) **6h**
 * Create a document
 * Insert tables, figures and mathematical formula
 * Using BibTeX to generate a bibliography
