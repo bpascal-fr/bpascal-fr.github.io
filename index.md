@@ -31,19 +31,15 @@ I worked on **texture segmentation** based on fractal attributes, such as e.g. *
 Further, I developed an automated data-driven Stein Unbiased Risk Estimate based strategy for the fine-tuning of hyperparameters.
 
 <div align="middle">
-<table style="width:100%">
-			<tr>
-				<th><img width="200" src="assets/images/mono.png" align="center"></th>
-				<th><img width="200" src="assets/images/hreg.png" align="center"></th>
-        <th><img width="200" src="assets/images/hest.png" align="center"></th>
-			</tr>
-			<tr>
-				<th><p align="center">Piecewise monofractal texture</p></th>
-				<th><p align="center">Local estimate of local regularity</p></th>
-        <th><p align="center">Denoised local regularity estimate</p></th>
-			</tr>
-</table>
+<div align="middle">
+<img width="200" src="assets/images/mono.png" align="center">
+        <p align="center">Piecewise monofractal texture</p>
 </div>
+<div align="middle">
+<img width="200" src="assets/images/hreg.png" align="center">
+        <p align="center">Local estimate of local regularity</p>
+</div>
+
 
 <div align="middle" style="margin-top: 50px">
   <a href="http://www.cnrs.fr/en"><img class='logo' alt="logo_cnrs" src="assets/images/logo_cnrs.png" align="bottom" style="width:100px;height:100px;"></a>
