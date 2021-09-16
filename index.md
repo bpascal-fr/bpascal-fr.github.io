@@ -39,6 +39,7 @@ Further, I developed an automated data-driven Stein Unbiased Risk Estimate based
 <img width="200" src="assets/images/hreg.png" align="center">
         <p align="center">Local estimate of local regularity</p>
 </div>
+</div>
 
 
 <div align="middle" style="margin-top: 50px">
