@@ -30,6 +30,19 @@ I did my PhD thesis under the supervision of [Patrice Abry](http://perso.ens-lyo
 I worked on **texture segmentation** based on fractal attributes, such as e.g. **local regularity**, designing convex functionals for **simultaneous** estimation and regularization of attributes maps.
 Further, I developed an automated data-driven Stein Unbiased Risk Estimate based strategy for the fine-tuning of hyperparameters.
 
+<table style="width:100%">
+			<tr>
+				<th><img width="200" src="assets/images/mono.png" align="center"></th>
+				<th><img width="200" src="assets/images/hreg.png" align="center"></th>
+        <th><img width="200" src="assets/images/hest.png" align="center"></th>
+			</tr>
+			<tr>
+				<th><p align="center">Piecewise monofractal texture</p></th>
+				<th><p align="center">Local estimate of local regularity</p></th>
+        <th><p align="center">Denoised local regularity estimate</p></th>
+			</tr>
+</table>
+
 <div align="middle" style="margin-top: 50px">
   <a href="http://www.cnrs.fr/en"><img class='logo' alt="logo_cnrs" src="assets/images/logo_cnrs.png" align="bottom" style="width:100px;height:100px;"></a>
 
