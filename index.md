@@ -30,7 +30,7 @@ I did my PhD thesis under the supervision of [Patrice Abry](http://perso.ens-lyo
 I worked on **texture segmentation** based on fractal attributes, such as e.g. **local regularity**, designing convex functionals for **simultaneous** estimation and regularization of attributes maps.
 Further, I developed an automated data-driven Stein Unbiased Risk Estimate based strategy for the fine-tuning of hyperparameters.
 
-<div align="middle">
+<div id='content' align="middle">
 <div align="middle">
 <img width="200" src="assets/images/mono.png" align="center">
         <p align="center">Piecewise monofractal texture</p>
