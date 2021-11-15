@@ -52,7 +52,8 @@ Practical exercises **8h**
 * Random variables
 * Spectral estimation
 * Random processes and estimation
-* Statistical tests
+* Statistical tests  
+Notes on: Stationarity of random process ([pdf](assets/pdf/stationnaire.pdf)), Spectral estimation and Fast Fourier Transform ([pdf](assets/pdf/fft_exam.pdf))
 
 > **Introduction to LaTeX** - (3rd year of bachelor) *2017-2018, 2018-2019, 2019-2020*  
 Exercises and implementation (Texmaker, Zotero) **6h**
