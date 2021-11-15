@@ -66,4 +66,4 @@ Exercises and implementation (Texmaker, Zotero) **6h**
 Practical exercises **8h**
 * Statistical ensembles: *Microcanonical* ([subject](assets/pdf/td1_stat.pdf),[correction](assets/pdf/td1_stat_c.pdf)), *Canonical* ([subject](assets/pdf/td2_stat.pdf),[correction](assets/pdf/td2_stat_c.pdf))
 * Phase transitions: *Nematic liquids* ([subject](assets/pdf/td3_stat.pdf), [correction](assets/pdf/td3_stat_c.pdf))
-* Disordered systems: *Zinc and copper alloy*
+* Disordered systems: *Zinc and copper alloy* ([subject](assets/pdf/td4_stat.pdf), [correction](assets/pdf/td4_stat_c.pdf))
