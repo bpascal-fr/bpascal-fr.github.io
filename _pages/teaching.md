@@ -65,5 +65,5 @@ Exercises and implementation (Texmaker, Zotero) **6h**
 > **Statistical physics** - (2nd year of master) *2017-2018, 2018-2019, 2019-2020*  
 Practical exercises **8h**
 * Statistical ensembles: *Microcanonical* ([subject](assets/pdf/td1_stat.pdf),[correction](assets/pdf/td1_stat_c.pdf)), *Canonical* ([subject](assets/pdf/td2_stat.pdf),[correction](assets/pdf/td2_stat_c.pdf))
-* Phase transitions
-* Disordered systems
+* Phase transitions: *Nematic liquids* ([subject](assets/pdf/td3_stat.pdf), [correction](assets/pdf/td3_stat_c.pdf))
+* Disordered systems: *Zinc and copper alloy*
