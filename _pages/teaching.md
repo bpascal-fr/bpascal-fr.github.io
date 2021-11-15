@@ -54,7 +54,7 @@ Practical exercises **8h**
 * Random processes and estimation
 * Statistical tests  
 
-Notes on: Stationarity of random process ([pdf](assets/pdf/stationnaire.pdf)), Cochran theorem ([pdf](assets/pdf/thm_cochran.pdf)), Spectral estimation and Fast Fourier Transform ([pdf](assets/pdf/fft_exam.pdf))
+Notes on: Stationarity of random process ([pdf](../assets/pdf/stationnaire.pdf)), Cochran theorem ([pdf](../assets/pdf/thm_cochran.pdf)), Spectral estimation and Fast Fourier Transform ([pdf](../assets/pdf/fft_exam.pdf))
 
 > **Introduction to LaTeX** - (3rd year of bachelor) *2017-2018, 2018-2019, 2019-2020*  
 Exercises and implementation (Texmaker, Zotero) **6h**
@@ -62,14 +62,14 @@ Exercises and implementation (Texmaker, Zotero) **6h**
 * Insert tables, figures and mathematical formula
 * Using BibTeX to generate a bibliography  
 
-Elements of presentation ([pdf](assets/pdf/tp_latex.pdf))
+Elements of presentation ([pdf](../assets/pdf/tp_latex.pdf))
 
 ### [Master Complex Systems - IXXI](http://www.ens-lyon.fr/MasterSDM/fr/master-2/m2-systemes-complexes)
 
 > **Statistical physics** - (2nd year of master) *2017-2018, 2018-2019, 2019-2020*  
 Practical exercises **8h**
 * Statistical ensembles:  
-  *Microcanonical* ([subject](assets/pdf/td1_stat.pdf),[correction](assets/pdf/td1_stat_c.pdf)),  
-  *Canonical* ([subject](assets/pdf/td2_stat.pdf),[correction](assets/pdf/td2_stat_c.pdf))
-* Phase transitions: *Nematic liquids* ([subject](assets/pdf/td3_stat.pdf), [correction](assets/pdf/td3_stat_c.pdf))
-* Disordered systems: *Zinc and copper alloy* ([subject](assets/pdf/td4_stat.pdf), [correction](assets/pdf/td4_stat_c.pdf))
+  *Microcanonical* ([subject](../assets/pdf/td1_stat.pdf),[correction](../assets/pdf/td1_stat_c.pdf)),  
+  *Canonical* ([subject](../assets/pdf/td2_stat.pdf),[correction](../assets/pdf/td2_stat_c.pdf))
+* Phase transitions: *Nematic liquids* ([subject](../assets/pdf/td3_stat.pdf), [correction](../assets/pdf/td3_stat_c.pdf))
+* Disordered systems: *Zinc and copper alloy* ([subject](../assets/pdf/td4_stat.pdf), [correction](../assets/pdf/td4_stat_c.pdf))
