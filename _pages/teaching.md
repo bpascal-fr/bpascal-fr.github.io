@@ -61,6 +61,7 @@ Exercises and implementation (Texmaker, Zotero) **6h**
 * Insert tables, figures and mathematical formula
 * Using BibTeX to generate a bibliography  
 Elements of presentation ([pdf](assets/pdf/tp_latex.pdf))
+
 ### [Master Complex Systems - IXXI](http://www.ens-lyon.fr/MasterSDM/fr/master-2/m2-systemes-complexes)
 
 > **Statistical physics** - (2nd year of master) *2017-2018, 2018-2019, 2019-2020*  
