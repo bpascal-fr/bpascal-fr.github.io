@@ -48,21 +48,21 @@ Practical and numerical implementation (Matlab) **8h**
 ### [Bachelor of Physics](http://www.ens-lyon.fr/MasterSDM/fr/licence-3)
 
 > **Signal processing** - (3rd year of bachelor) *2018-2019, 2019-2020*  
-Practical exercises **8h**
+Practical exercises **8h**  
+**Notes on:** Stationarity of random process ([pdf](../assets/pdf/stationnaire.pdf)), Cochran theorem ([pdf](../assets/pdf/thm_cochran.pdf)), Spectral estimation and Fast Fourier Transform ([pdf](../assets/pdf/fft_exam.pdf))
 * Random variables
 * Spectral estimation
 * Random processes and estimation
 * Statistical tests  
 
-Notes on: Stationarity of random process ([pdf](../assets/pdf/stationnaire.pdf)), Cochran theorem ([pdf](../assets/pdf/thm_cochran.pdf)), Spectral estimation and Fast Fourier Transform ([pdf](../assets/pdf/fft_exam.pdf))
-
 > **Introduction to LaTeX** - (3rd year of bachelor) *2017-2018, 2018-2019, 2019-2020*  
-Exercises and implementation (Texmaker, Zotero) **6h**
+Exercises and implementation (Texmaker, Zotero) **6h**  
+Elements of presentation ([pdf](../assets/pdf/tp_latex.pdf))
 * Create a document
 * Insert tables, figures and mathematical formula
 * Using BibTeX to generate a bibliography  
 
-Elements of presentation ([pdf](../assets/pdf/tp_latex.pdf))
+
 
 ### [Master Complex Systems - IXXI](http://www.ens-lyon.fr/MasterSDM/fr/master-2/m2-systemes-complexes)
 
