@@ -20,9 +20,9 @@ Detailed correction of Exercice 30 ([pdf](../assets/pdfs/exercice_30.pdf))
 
 > **Nonsmooth convex optimization** - (2nd year of master) *2018-2019, 2020-2021*  
 Lectures and numerical implementation (Python) **6h+1h30**  
-From the lecture notes of [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik)
+From the lecture notes of [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik)  
 Personal notes and material provided to students:
-* **Chapter 9** on stochastic optimization ([pdf](../assets/pdfs/cours_M2_part_sto.pdf))
+* **Chapter 9: Stochastic optimization** ([pdf](../assets/pdfs/cours_M2_part_sto.pdf))
 * Nonsmooth optimization for denoising ([pdf](../assets/pdfs/DMTP_M2_MEA.pdf))
 * Detailed correction of the course exercises ([pdf](../assets/pdfs/exercices_M2_MEA.pdf))
 * Total Variation denoising ([pdf](../assets/pdfs/optim_non_lisse.pdf))
