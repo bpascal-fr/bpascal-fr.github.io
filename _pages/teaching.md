@@ -12,6 +12,7 @@ title: "Teaching"
 
 > **Measure theory and Lebesgue integration**  (3rd year of bachelor) *2021-2022*  
 Practical exercises **14h**
+Detailed correction of Exercice 30 ([pdf](../assets/pdfs/exercice_30.pdf))
 
 ## [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr/), France
 
