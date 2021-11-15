@@ -21,6 +21,11 @@ Detailed correction of Exercice 30 ([pdf](../assets/pdfs/exercice_30.pdf))
 > **Nonsmooth convex optimization** - (2nd year of master) *2018-2019, 2020-2021*  
 Lectures and numerical implementation (Python) **6h+1h30**  
 From the lecture notes of [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik)
+Personal notes and material provided to students:
+* Nonsmooth optimization for denoising ([pdf](../assets/pdfs/DMTP_M2_MEA.pdf))
+* Detailed correction of the course exercises ([pdf](../assets/pdfs/exercices_M2_MEA.pdf))
+* Note on the [Fast Iterative Shrinkage-Threshold Algorithm](https://hal.inria.fr/hal-01060130v3) ([pdf](../assets/pdfs/fista_chambolle_dossal.pdf))
+* Chambolle-Pock algorithm for denoising ([pdf](../assets/pdfs/chambolle_pcok.pdf))
 
 ## [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France
 
