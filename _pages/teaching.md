@@ -22,8 +22,10 @@ Detailed correction of Exercice 30 ([pdf](../assets/pdfs/exercice_30.pdf))
 Lectures and numerical implementation (Python) **6h+1h30**  
 From the lecture notes of [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik)
 Personal notes and material provided to students:
+* **Chapter 9** on stochastic optimization ([pdf](../assets/pdfs/cours_M2_part_sto.pdf))
 * Nonsmooth optimization for denoising ([pdf](../assets/pdfs/DMTP_M2_MEA.pdf))
 * Detailed correction of the course exercises ([pdf](../assets/pdfs/exercices_M2_MEA.pdf))
+* Total Variation denoising ([pdf](../assets/pdfs/optim_non_lisse.pdf))
 * Note on the [Fast Iterative Shrinkage-Threshold Algorithm](https://hal.inria.fr/hal-01060130v3) ([pdf](../assets/pdfs/fista_chambolle_dossal.pdf))
 * Chambolle-Pock algorithm for denoising ([pdf](../assets/pdfs/chambolle_pcok.pdf))
 
@@ -55,7 +57,7 @@ Practical and numerical implementation (Matlab) **8h**
 
 > **Signal processing** - (3rd year of bachelor) *2018-2019, 2019-2020*  
 Practical exercises **8h**  
-**Notes on:** Stationarity of random process ([pdf](../assets/pdfs/stationnaire.pdf)), Cochran theorem ([pdf](../assets/pdfs/thm_cochran.pdf)), Spectral estimation and Fast Fourier Transform ([pdf](../assets/pdfs/fft_exam.pdf))
+Notes on: Stationarity of random process ([pdf](../assets/pdfs/stationnaire.pdf)), Cochran theorem ([pdf](../assets/pdfs/thm_cochran.pdf)), Spectral estimation and Fast Fourier Transform ([pdf](../assets/pdfs/fft_exam.pdf))
 * Random variables
 * Spectral estimation
 * Random processes and estimation
