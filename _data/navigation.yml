@@ -2,6 +2,8 @@
 main:
   - title: "Publications"
     url: /publications/
+  - title: "Invited talks"
+    url: /invitations/
   - title: "Teaching"
     url: /teaching/
   - title: "Softwares"
