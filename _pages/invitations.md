@@ -15,7 +15,7 @@ title: "Invited talks"
 ## Invited seminars
 
 6. Séminaire de Statistique et Optimisation, [Institut de Mathématiques de Toulouse](https://www.math.univ-toulouse.fr/)  
-``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**''  
+``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/Toulouse21.pdf))  
 12 octobre 2021. *Organizers:* Mélisande Albert, Adrien Mazoyer and Pierre Weiss.
 1. [Séminaire Cristolien d'Analyse Multifractale](https://sites.math.u-pem.fr/scam/) (SCAM), Centre de Mathématiques, Créteil  
 ``**Segmentation de textures à partir d'attributs fractals par minimisation de fonctionnelle, avec réglage automatique des hyperparamètres**'' ([slides](../assets/pdfs/SCAM21.pdf))  
