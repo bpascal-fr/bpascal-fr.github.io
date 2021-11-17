@@ -21,7 +21,7 @@ title: "Invited talks"
 ``**Segmentation de textures à partir d'attributs fractals par minimisation de fonctionnelle, avec réglage automatique des hyperparamètres**'' ([slides](../assets/pdfs/SCAM21.pdf))  
 4 février 2021. *Organizers:* Stéphane Jaffard and Stéphane Seuret.
 4. Séminaire Signal et Image, [Institut de Mathématiques de Marseille](https://www.i2m.univ-amu.fr/) (I2M)  
-``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection.**''  
+``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection.**'' ([slides](../assets/pdfs/Marseille20.pdf))  
 27 novembre 2020. *Organizer:* Caroline Chaux.
 3. Séminaire Image, Optimisation et Probabilités (IOP), [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/imb/spip.php)  
 ``**How scale-free texture segmentation turns out to be a strongly convex optimization problem?**'' ([slides](../assets/pdfs/IMB20.pdf))  
