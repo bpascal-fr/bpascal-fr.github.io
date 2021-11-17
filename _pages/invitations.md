@@ -14,7 +14,10 @@ title: "Invited talks"
 
 ## Invited seminars
 
-5. [Séminaire Cristolien d'Analyse Multifractale](https://sites.math.u-pem.fr/scam/) (SCAM), Centre de Mathématiques, Créteil  
+6. Séminaire de Statistique et Optimisation, [Institut de Mathématiques de Toulouse](https://www.math.univ-toulouse.fr/)  
+``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**''  
+12 octobre 2021. *Organizers:* Mélisande Albert, Adrien Mazoyer and Pierre Weiss.
+1. [Séminaire Cristolien d'Analyse Multifractale](https://sites.math.u-pem.fr/scam/) (SCAM), Centre de Mathématiques, Créteil  
 ``**Segmentation de textures à partir d'attributs fractals par minimisation de fonctionnelle, avec réglage automatique des hyperparamètres**''  
 4 février 2021. *Organizers:* Stéphane Jaffard and Stéphane Seuret.
 4. Séminaire Signal et Image, [Institut de Mathématiques de Marseille](https://www.i2m.univ-amu.fr/) (I2M)  
