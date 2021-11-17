@@ -6,7 +6,7 @@ author_profile: true
 title: "Invited talks"
 ---
 
-## Conference talks, symposia and mini-courses
+## Symposia, mini-courses and conferences without proceedings
 
 * Mini-course `**Point processes and spatial statistics in time-frequency analysis**'  
 [Stochastic Geometry Days](https://www.mathconf.org/sgd2021), Dunkerque, France, 15 au 19 Novembre 2021
