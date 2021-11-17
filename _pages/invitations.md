@@ -18,13 +18,13 @@ title: "Invited talks"
 ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**''  
 12 octobre 2021. *Organizers:* Mélisande Albert, Adrien Mazoyer and Pierre Weiss.
 1. [Séminaire Cristolien d'Analyse Multifractale](https://sites.math.u-pem.fr/scam/) (SCAM), Centre de Mathématiques, Créteil  
-``**Segmentation de textures à partir d'attributs fractals par minimisation de fonctionnelle, avec réglage automatique des hyperparamètres**''  
+``**Segmentation de textures à partir d'attributs fractals par minimisation de fonctionnelle, avec réglage automatique des hyperparamètres**'' ([slides](../assets/pdfs/SCAM21.pdf))  
 4 février 2021. *Organizers:* Stéphane Jaffard and Stéphane Seuret.
 4. Séminaire Signal et Image, [Institut de Mathématiques de Marseille](https://www.i2m.univ-amu.fr/) (I2M)  
 ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection.**''  
 27 novembre 2020. *Organizer:* Caroline Chaux.
 3. Séminaire Image, Optimisation et Probabilités (IOP), [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/imb/spip.php)  
-``**How scale-free texture segmentation turns out to be a strongly convex optimization problem?**''  
+``**How scale-free texture segmentation turns out to be a strongly convex optimization problem?**'' ([slides](../assets/pdfs/IMB20.pdf))  
 12 mars 2020. *Organizers:* Arthur Leclaire and Camille Male.
 2. Séminaire de l'équipe SIGMA, [CRIStAL](https://www.cristal.univ-lille.fr/spip.php?page=rubrique&id_rubrique=1) Lille  
 ``**How scale-free texture segmentation turns out to be a strongly convex optimization problem?**''  
