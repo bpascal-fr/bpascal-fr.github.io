@@ -20,8 +20,12 @@ Further, I intend to benefits from a parallel with the quantum theory of **coher
 I am currently working on this project under supervision of [Rémi Bardenet](https://rbardenet.github.io/), and in collaboration with Alexandre Feller.
 
 <div align="middle">
-<img width="200" src="assets/images/zeros_charlier.png" align="center">
-        <p align="center">Spectrogram zeros</p>
+<img width="200" src="assets/images/zeros_spherical.png" align="center">
+        <p align="center">Zeros of the spherical Gaussian Analytic Function</p>
+</div>
+<div align="middle">
+<img width="200" src="assets/images/zeros_Kravchuk.png" align="center">
+        <p align="center">Spherical time-frequency transform in the presence of a signal</p>
 </div>
 
 ### Texture segmentation based on fractal attributes and convex nonsmooth optimization
