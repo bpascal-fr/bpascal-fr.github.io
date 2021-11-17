@@ -9,7 +9,8 @@ title: "Invited talks"
 ## Conference talks and mini-courses
 
 * Mini-course on `Point processes and spatial statistics in time-frequency analysis'  
-  [Stochastic Geometry Days](https://www.mathconf.org/sgd2021)
+[Stochastic Geometry Days](https://www.mathconf.org/sgd2021), Dunkerque, November 15th-19th 2021
+([slides](../assets/pdfs/SP-and-GAF_B-Pascal.pdf), [codes](https://github.com/bpascal-fr/GeoSto-PP-for-TF))
 
 ## Invited seminars
 
