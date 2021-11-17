@@ -30,6 +30,6 @@ title: "Invited talks"
 ``**How scale-free texture segmentation turns out to be a strongly convex optimization problem?**''  
 3 mars 2020. *Organizers:* Pierre-Antoine Thouvenin and Vincent Itier.
 1. Image and Signal Processing Seminars, [ICTEAM](https://uclouvain.be/en/research-institutes/icteam), Université Catholique de Louvain  
-``**How scale-free texture segmentation turns out to be a strongly convex optimization problem?**''  
+``**How scale-free texture segmentation turns out to be a strongly convex optimization problem?**'' ([slides](../assets/pdfs/UCL19.pdf))  
 10 décembre 2020. *Organizer:* [Laurent Jacques](https://laurentjacques.gitlab.io/).
 {: reversed="reversed"}
