@@ -13,7 +13,10 @@ title: "Invited talks"
 
 ## Invited seminars
 
-3. Séminaire Image, Optimisation et Probabilités (IOP), [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/imb/spip.php)  
+4. Séminaire Signal et Image, [Institut de Mathématiques de Marseille](https://www.i2m.univ-amu.fr/) (I2M)  
+``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection.**''  
+27 novembre 2020. *Organizer:* Caroline Chaux.
+1. Séminaire Image, Optimisation et Probabilités (IOP), [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/imb/spip.php)  
 ``**How scale-free texture segmentation turns out to be a strongly convex optimization problem?**''  
 12 mars 2020. *Organizers:* Arthur Leclaire et Camille Male.
 2. Séminaire de l'équipe SIGMA, [CRIStAL](https://www.cristal.univ-lille.fr/spip.php?page=rubrique&id_rubrique=1) Lille  
