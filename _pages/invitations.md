@@ -9,14 +9,14 @@ title: "Invited talks"
 ## Symposia, mini-courses and conferences without proceedings
 
 * Mini-course `**Point processes and spatial statistics in time-frequency analysis**'  
-[Stochastic Geometry Days](https://www.mathconf.org/sgd2021), Dunkerque, France, 15 au 19 Novembre 2021
+[Stochastic Geometry Days](https://www.mathconf.org/sgd2021), Dunkerque, France, November 15-19 2021
 ([slides](../assets/pdfs/SP-and-GAF_B-Pascal.pdf), [codes](https://github.com/bpascal-fr/GeoSto-PP-for-TF))
 * Poster presentation ``**Joint estimation of local variance and local regularity for texture segmentation,**'' ([poster](../assets/pdfs/CS18.pdf))  
 **B. Pascal**, N. Pustelnik, and P. Abry,  
- [Curves and Surfaces](https://cs2018.sciencesconf.org/), Arcachon, France, 28 Juin au 4 Juillet 2018.
+ [Curves and Surfaces](https://cs2018.sciencesconf.org/), Arcachon, France, June 28th au 4 July 4th 2018.
 * Mini-symposium presentation ``**Combining Local Regularity Estimation and Total Variation Optimization for Scale-Free Texture Segmentation,**'' ([slides](../assets/pdfs/siam2018.pdf))  
 **B. Pascal**, N. Pustelnik, and P. Abry,  
-[SIAM IS](https://www.siam-is18.dm.unibo.it/), Bologna, Italy, 5 au 8 Juin 2018.
+[SIAM IS](https://www.siam-is18.dm.unibo.it/), Bologna, Italy, June 5-8 2018.
 
 ## Invited seminars
 
