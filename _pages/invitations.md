@@ -25,7 +25,7 @@ title: "Invited talks"
 October 12th 2021. *Organizers:* Mélisande Albert, Adrien Mazoyer and Pierre Weiss.
 1. Workshop on Point Processes and Applications, [CRIStAL](https://www.cristal.univ-lille.fr/spip.php?page=rubrique&id_rubrique=1) & [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), University of Lille  
 ``**A link between Majorana Stellar representation of pure spin states and Coulomb gas on the sphere**"  ([slides](../assets/pdfs/gt-pp.pdf))  
-May 28th 2021. \underline{Organizer:} Mylène Maida.
+May 28th 2021. *Organizer:* Mylène Maida.
 1. [Séminaire Cristolien d'Analyse Multifractale](https://sites.math.u-pem.fr/scam/) (SCAM), Centre de Mathématiques, Créteil  
 ``**Segmentation de textures à partir d'attributs fractals par minimisation de fonctionnelle, avec réglage automatique des hyperparamètres**'' ([slides](../assets/pdfs/SCAM21.pdf))  
 February 4th 2021. *Organizers:* Stéphane Jaffard and Stéphane Seuret.
