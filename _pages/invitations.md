@@ -20,7 +20,13 @@ title: "Invited talks"
 
 ## Invited seminars
 
-6. Séminaire de Statistique et Optimisation, [Institut de Mathématiques de Toulouse](https://www.math.univ-toulouse.fr/)  
+9.  Seminar of the Géométrie, Apprentissage, Information, Algorithmes (GAIA) pole, [GISPA-Lab](http://www.gipsa-lab.fr/), Grenoble  
+``**Processing nonstationary data: representations, theory, algorithms and applications.**'' ([slides](..assets/pdfs/Grenoble21.pdf))  
+December 16th 2021. *Organizer:* Guillaume Becq.
+8. Seminar of the Signal IMage et Son (SIMS) team, [LS2N](https://www.ls2n.fr/), Nantes  
+``**Processing nonstationary data: representations, theory, algorithms and applications.**'' ([slides](..assets/pdfs/Nantes21.pdf))  
+December 10th 2021. *Organizer:* Clément Huneau.
+1. Séminaire de Statistique et Optimisation, [Institut de Mathématiques de Toulouse](https://www.math.univ-toulouse.fr/)  
 ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/Toulouse21.pdf))  
 October 12th 2021. *Organizers:* Mélisande Albert, Adrien Mazoyer and Pierre Weiss.
 1. Workshop on Point Processes and Applications, [CRIStAL](https://www.cristal.univ-lille.fr/spip.php?page=rubrique&id_rubrique=1) & [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), University of Lille  
