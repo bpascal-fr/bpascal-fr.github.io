@@ -12,12 +12,15 @@ Here is a detailed curriculum vitae [in english](assets/pdfs/CV_en.pdf) and [in 
 
 ### Generalized time-frequency transforms and their zeros
 
-My postdoctoral project focuses on the construction and study of *extended* **time-frequency transforms**.
-I am interested in the **statistics** of the random point process consisting of the zeros of the transform of white Gaussian noise.
-In particular, I investigates their potential link with the complex zeros of **Gaussian Analytic Functions**.  
-For this purpose, I focus on an **algebraic** formulation of generalized time-frequency transforms emphasizing the action an underlying symmetry group.
-Further, I intend to benefits from a parallel with the quantum theory of **coherent states**.
-I am currently working on this project under supervision of [Rémi Bardenet](https://rbardenet.github.io/), and in collaboration with Alexandre Feller.
+**!NEW!** Our journal paper introducing a novel covariant transform tailored for *discrete* signals and designing detection methodology based on the zeros of the associated spectrogram has been submitted and is pending for verification [hal](https://hal.archives-ouvertes.fr/). The associated `Python` codes are available on [GitHub](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros).
+
+My postdoctoral project focuses on the construction of *extended* **time-frequency transforms** and the study of their zeros, participating to the ERC project **Blackjack** holded by [Rémi Bardenet](https://rbardenet.github.io/).  
+
+I am notably interested in the **statistics** of the random point process consisting of the zeros of the transform of white Gaussian noise, with the purpose to renew standard signal processing procedures classically based on spectrogram maxima by developing alternative zero-based methodologies. I am currently designing signal detection strategies leveraging the spatial statistics of the zeros of the new covariant transform we built.  
+
+To give theoretical ground to this work, I investigates the links between covariant representations and **Gaussian Analytic Functions** making use of an **algebraic** formulation of generalized time-frequency transforms emphasizing the action an underlying symmetry group.
+Further, I intend to benefits from a parallel with the quantum theory of **coherent states** in collaboration with Alexandre Feller.  
+
 
 <div align="middle">
 <img width="200" src="assets/images/zeros_spherical.png" align="center">
