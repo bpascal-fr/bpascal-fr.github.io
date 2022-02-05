@@ -12,7 +12,7 @@ Here is a detailed curriculum vitae [in english](assets/pdfs/CV_en.pdf) and [in 
 
 ### Generalized time-frequency transforms and their zeros
 
-**!NEW!** Our journal paper introducing a novel covariant transform tailored for *discrete* signals and designing detection methodology based on the zeros of the associated spectrogram has been submitted and is pending for verification [hal](https://hal.archives-ouvertes.fr/). The associated `Python` codes are available on [GitHub](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros).
+**!NEW!** Our journal [preprint](assets/pdfs/2022_TSP_hal.pdf) introducing a novel covariant transform tailored for *discrete* signals and designing detection methodology based on the zeros of the associated spectrogram has been submitted and is pending for verification [hal](https://hal.archives-ouvertes.fr/). The associated `Python` codes are available on [GitHub](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros).
 
 My postdoctoral project focuses on the construction of *extended* **time-frequency transforms** and the study of their zeros, participating to the ERC project **Blackjack** holded by [Rémi Bardenet](https://rbardenet.github.io/).  
 
