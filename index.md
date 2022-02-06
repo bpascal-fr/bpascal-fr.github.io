@@ -31,7 +31,7 @@ Further, I intend to benefits from a parallel with the quantum theory of **coher
         <p align="center">Spherical time-frequency transform in the presence of a signal</p>
 </div>
 
-### Texture segmentation based on fractal attributes and convex nonsmooth optimization
+### Fractal texture segmentation relying on convex nonsmooth optimization
 
 I did my PhD thesis under the supervision of [Patrice Abry](http://perso.ens-lyon.fr/patrice.abry) and [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik) at [Laboratoire de Physique](http://www.ens-lyon.fr/PHYSIQUE) in [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France.
 I worked on **texture segmentation** based on fractal attributes, such as e.g. **local regularity**, designing convex functionals for **simultaneous** estimation and regularization of attributes maps.
