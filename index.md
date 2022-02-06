@@ -60,6 +60,21 @@ The developed estimation procedure is run on a daily basis on the data collected
 </div>  
 
 ### Credibility interval from  Monte Carlo
+
+Complementary to the point-in-time above estimates, health authorities also need guidance on how much confidence to place in the reproductive number estimate.
+
+In collaboration with [G. Fort](https://perso.math.univ-toulouse.fr/gfort/), [P. Abry](http://perso.ens-lyon.fr/patrice.abry/index.html) and [N. Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik/), we developed  Monte Carlo sampling yielding credibility interval estimate of the reproduction number.
+To that aim, we design Markov chain Monte Carlo scheme, leveraging the Adjusted Langevin technology and adapting it to nonsmooth log-likehood.
+
+<div id='content' align="middle">
+<div align="middle">
+<img width="400" src="assets/images/Franceb.png" align="center">
+</div>
+<div align="middle">
+<img width="400" src="assets/images/Singaporeb.png" align="center">
+</div>
+</div>  
+
 ### Fractal texture segmentation relying on convex nonsmooth optimization
 
 I did my PhD thesis under the supervision of [Patrice Abry](http://perso.ens-lyon.fr/patrice.abry) and [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik) at [Laboratoire de Physique](http://www.ens-lyon.fr/PHYSIQUE) in [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France.
