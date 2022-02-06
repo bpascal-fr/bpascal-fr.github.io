@@ -31,6 +31,35 @@ Further, I intend to benefits from a parallel with the quantum theory of **coher
         <p align="center">Spherical time-frequency transform in the presence of a signal</p>
 </div>
 
+## Estimation of the reproduction number of the Covid-19 pandemic
+
+The daily surveillance of the Covid-19 pandemic relies on the reproduction number *R0*, which accounts for the averaged number of secondary cases stemming from a primary infection.
+The precise, fast and robust estimation of this indicator is thus of utmost importance for National Health Authorities to design sanitary politics.
+
+### Maximum A Posteriori estimate via nonsmooth convex optimization
+
+The major issue in the estimation of real-time reproduction number is the poor quality of Covid-19 data, which contains irrelevant or missing counts, pseudo-seasonalities due to day-offs, as illustrated on the black curve above.
+
+In collaboration with [P. Abry](http://perso.ens-lyon.fr/patrice.abry/index.html), [N. Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik/), [S. Roux](http://perso.ens-lyon.fr/stephane.roux/), [R. Gribonval](https://people.irisa.fr/Remi.Gribonval/) and [P. Flandrin](http://perso.ens-lyon.fr/patrick.flandrin/) we proposed to tackle this issue by designing an extended pandemic model, accounting for the presence of *outliers* in the infection counts.
+Then, the joint estimation of the reproduction number and the *outliers* is formulated as a convex nonsmooth optimization problem, balancing the fidelity to the extended epidemiological model and regularity and sparsity constraints.
+We designed an efficient minimization scheme yielding the resulting Maximum A Posteriori estimate of the reproduction number.
+Further, we proved the convergence of this algorithm, the dynamics of which you can observe on this [video](/assets/R_and_Z.mp4).
+
+The developed estimation procedure is run on a daily basis on the data collected from the National Public Health Authorities of 200+ countries by the [Johns Hopkins University](https://coronavirus.jhu.edu/), and made publicly available in a [repository](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse-covid-19-time-series/) containing time series of new infection counts since the beginning of the pandemic.
+
+
+<div id='content' align="middle">
+<div align="middle">
+<img width="200" src="assets/images/RO.png" align="center">
+        <p align="center">MAP estimates of the reproduction number</p>
+</div>
+<div align="middle">
+<img width="200" src="assets/images/Z_denoised.png" align="center">
+        <p align="center">Denoised infection counts</p>
+</div>
+</div>  
+
+### Credibility interval from  Monte Carlo
 ### Fractal texture segmentation relying on convex nonsmooth optimization
 
 I did my PhD thesis under the supervision of [Patrice Abry](http://perso.ens-lyon.fr/patrice.abry) and [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik) at [Laboratoire de Physique](http://www.ens-lyon.fr/PHYSIQUE) in [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France.
