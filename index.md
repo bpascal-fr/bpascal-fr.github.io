@@ -14,6 +14,11 @@ Here is a detailed curriculum vitae [in english](assets/pdfs/CV_en.pdf) and [in 
 
 **!NEW!** Our journal [preprint](assets/pdfs/2022_TSP_hal.pdf) introducing a novel covariant transform tailored for *discrete* signals and designing detection methodology based on the zeros of the associated spectrogram has been submitted and is pending for verification [hal](https://hal.archives-ouvertes.fr/). The associated `Python` codes are available on [GitHub](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros).
 
+<div align="middle">
+<img width="300" src="assets/images/power_snr_256_duration_15.png" align="center">
+        <p align="center">Power of the signal detection test depending on the functional statistics</p>
+</div>
+
 My postdoctoral project focuses on the construction of *extended* **time-frequency transforms** and the study of their zeros, participating to the ERC project **Blackjack** holded by [Rémi Bardenet](https://rbardenet.github.io/).  
 
 I am notably interested in the **statistics** of the random point process consisting of the zeros of the transform of white Gaussian noise, with the purpose to renew standard signal processing procedures classically based on spectrogram maxima by developing alternative zero-based methodologies. I am currently designing signal detection strategies leveraging the spatial statistics of the zeros of the new covariant transform we built.  
