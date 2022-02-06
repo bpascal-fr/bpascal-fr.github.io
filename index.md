@@ -50,11 +50,11 @@ The developed estimation procedure is run on a daily basis on the data collected
 
 <div id='content' align="middle">
 <div align="middle">
-<img width="200" src="assets/images/RO.png" align="center">
+<img width="400" src="assets/images/RO.png" align="center">
         <p align="center">MAP estimates of the reproduction number</p>
 </div>
 <div align="middle">
-<img width="200" src="assets/images/Z_denoised.png" align="center">
+<img width="400" src="assets/images/Z_denoised.png" align="center">
         <p align="center">Denoised infection counts</p>
 </div>
 </div>  
