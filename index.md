@@ -40,6 +40,7 @@ Further, I intend to benefits from a parallel with the quantum theory of **coher
 
 The daily surveillance of the Covid-19 pandemic relies on the reproduction number *R0*, which accounts for the averaged number of secondary cases stemming from a primary infection.
 The precise, fast and robust estimation of this indicator is thus of utmost importance for National Health Authorities to design sanitary politics.
+Further context and mathematical details can be found in these [slides](assets/pdfs/Steniq.pdf) providing an overall presentation of the entire project.
 
 ### Maximum A Posteriori estimate via nonsmooth convex optimization
 
