@@ -14,6 +14,15 @@ Recent work in time-frequency analysis proposed to switch the focus from the max
 [GitHub](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros) (Python toolbox)  
 
 B. Pascal, and R. Bardenet (2022). A covariant, discrete time-frequency representation tailored for zero-based signal detection. Submitted. [arxiv](https://arxiv.org/abs/2202.03835)
+
+## Point processes and spatial statistics in time-frequency analysis
+[GeoSto-PP-for-TF](https://github.com/bpascal-fr/GeoSto-PP-for-TF)
+
+Point processes in 2D or 3D have been major statistical models for spatial data in signal processing, from seismology to telecommunications. They come with an arsenal of exploration and inference tools, known as spatial statistics. Starting in 2015, point processes have also appeared in a more indirect way in signal processing, not as a statistical model for observed data, but as a natural way to describe and process nonstationary signals in the time-frequency plane. More precisely, consider linear “time-frequency” transforms from the space of square-integrable signal to spaces of analytic functions, such as the Gabor transform. The Gabor transform sends a one-dimensional signal, say a function of time like an audio recording, onto a function of a complex argument, the real part of which is interpreted as time, and the imaginary part as frequency. The modulus of that complex function is known as a spectrogram, and is to be read as the “musical score” of the initial signal, with a large value of the spectrogram at a given time and frequency being akin to a musical note on a score. Many signal processing algorithms revolve around identifying regions in the complex plane where the spectrogram is significantly large. In contrast, zeros of the spectrogram indicate perfect silence, a time at which a particular frequency is absent. Being the zeros of an analytic function, and actually a random analytic function if the input signal is considered random, these zeros form a point process in the complex plane. This tutorial is devoted to such point processes arising as the zeros of time-frequency transforms of random signals, to their links to the rich research around zeros of Gaussian analytic functions, and to how spatial statistics can yield signal detection and denoising algorithms that rely on identifying perturbations in the (point) pattern of silence.
+
+[GitHub](https://github.com/bpascal-fr/GeoSto-PP-for-TF) (Python toolbox)  
+
+R. Bardenet, and B. Pascal. Invited mini-course given at the *Stochastic Geometry Days*, November 15-19, 2021. Dunkerque, France
 ## Automated texture segmentation  
 [gsugar](https://github.com/bpascal-fr/gsugar)
 
