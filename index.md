@@ -12,7 +12,7 @@ Here is a detailed curriculum vitae [in english](assets/pdfs/CV_en.pdf) and [in 
 
 ### Generalized time-frequency transforms and their zeros
 
-**!NEW!** Our journal [preprint](assets/pdfs/kravchuk_hal.pdf) introducing a novel covariant transform tailored for *discrete* signals and designing detection methodology based on the zeros of the associated spectrogram has been submitted and is now available on [hal](https://hal.archives-ouvertes.fr/hal-03553433/). The associated `Python` codes are available on [GitHub](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros).
+**!NEW!** Our journal [preprint](assets/pdfs/kravchuk_hal.pdf) introducing a novel covariant transform tailored for *discrete* signals and designing detection methodology based on the zeros of the associated spectrogram has been submitted and is now available on [hal](https://hal.archives-ouvertes.fr/hal-03553433/) and [arXiv](https://arxiv.org/pdf/2202.03835.pdf). The associated `Python` codes are available on [GitHub](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros).
 
 <div align="middle">
 <img width="300" src="assets/images/power_snr_256_duration_15.png" align="center">
