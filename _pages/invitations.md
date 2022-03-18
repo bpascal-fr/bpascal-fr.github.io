@@ -20,7 +20,16 @@ title: "Invited talks"
 
 ## Invited seminars
 
-9.  Seminar of the Géométrie, Apprentissage, Information, Algorithmes (GAIA) pole, [GISPA-Lab](http://www.gipsa-lab.fr/), Grenoble  
+1. Signal and Machine Learning seminar, Institut de Mathématiques de Marseille ([I2M](https://www.i2m.univ-amu.fr/)), France
+``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests.**'' ([slides](../assets/pdfs/I2M22.pdf))
+18 mars 2022.  *Organizer :* Caroline Chaux
+1. Workshop on Point Processes and Applications, [CRIStAL](https://www.cristal.univ-lille.fr/spip.php?page=rubrique&id_rubrique=1) & [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), University of Lille  
+``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests.**'' ([slides](../assets/pdfs/gt-kravchuk.pdf))  
+11 mars 2022. *Organizers:* Mylène Maida et Michaël Fanuel.
+1. Groupe de travail Image, Mathématiques Appliquées à Paris 5 ([MAP5](https://map5.mi.parisdescartes.fr/)), Université de Paris  
+``**Analyse de données non stationnaires : représentations, théorie, algorithmes et applications.**'' ([slides](../assets/pdfs/MAP522.pdf))  
+7 mars 2022. *Organizer:* Rémy Abergel.
+1. Seminar of the Géométrie, Apprentissage, Information, Algorithmes (GAIA) pole, [GISPA-Lab](http://www.gipsa-lab.fr/), Grenoble  
 ``**Processing nonstationary data: representations, theory, algorithms and applications.**'' ([slides](..assets/pdfs/Grenoble21.pdf))  
 December 16th 2021. *Organizer:* Guillaume Becq.
 8. Seminar of the Signal IMage et Son (SIMS) team, [LS2N](https://www.ls2n.fr/), Nantes  
