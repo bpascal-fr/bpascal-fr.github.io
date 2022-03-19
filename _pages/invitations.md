@@ -30,10 +30,10 @@ title: "Invited talks"
 ``**Analyse de données non stationnaires : représentations, théorie, algorithmes et applications.**'' ([slides](../assets/pdfs/MAP522.pdf))  
 7 mars 2022. *Organizer:* Rémy Abergel.
 1. Seminar of the Géométrie, Apprentissage, Information, Algorithmes (GAIA) pole, [GISPA-Lab](http://www.gipsa-lab.fr/), Grenoble  
-``**Processing nonstationary data: representations, theory, algorithms and applications.**'' ([slides](..assets/pdfs/Grenoble21.pdf))  
+``**Processing nonstationary data: representations, theory, algorithms and applications.**'' ([slides](../assets/pdfs/Grenoble21.pdf))  
 December 16th 2021. *Organizer:* Guillaume Becq.
 8. Seminar of the Signal IMage et Son (SIMS) team, [LS2N](https://www.ls2n.fr/), Nantes  
-``**Processing nonstationary data: representations, theory, algorithms and applications.**'' ([slides](..assets/pdfs/Nantes21.pdf))  
+``**Processing nonstationary data: representations, theory, algorithms and applications.**'' ([slides](../assets/pdfs/Nantes21.pdf))  
 December 10th 2021. *Organizer:* Clément Huneau.
 1. Séminaire de Statistique et Optimisation, [Institut de Mathématiques de Toulouse](https://www.math.univ-toulouse.fr/)  
 ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/Toulouse21.pdf))  
