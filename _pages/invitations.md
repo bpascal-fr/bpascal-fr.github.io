@@ -21,7 +21,7 @@ title: "Invited talks"
 ## Invited seminars
 
 1. Signal and Machine Learning seminar, Institut de Mathématiques de Marseille ([I2M](https://www.i2m.univ-amu.fr/)), France
-``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests.**'' ([slides](../assets/pdfs/I2M22.pdf))
+``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests.**'' ([slides](../assets/pdfs/I2M22.pdf))  
 18 mars 2022.  *Organizer :* Caroline Chaux
 1. Workshop on Point Processes and Applications, [CRIStAL](https://www.cristal.univ-lille.fr/spip.php?page=rubrique&id_rubrique=1) & [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), University of Lille  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests.**'' ([slides](../assets/pdfs/gt-kravchuk.pdf))  
