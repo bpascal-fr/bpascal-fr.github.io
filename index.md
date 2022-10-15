@@ -4,7 +4,7 @@ author_profile: true
 classes: wide
 ---
 
-I am currently a CNRS Researcher [LS2N](https://www.cristal.univ-lille.fr/) in [SIMS](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) in Nantes. My research topics include inverse problems, variational methods, supervised learning, MCMC sampling and time-frequency analysis.
+I am currently a CNRS Researcher [LS2N](https://www.ls2n.fr/) in the team [Signal IMage and Sound](https://www.ls2n.fr/equipe/sims/) in Nantes. My research topics include inverse problems, variational methods, supervised learning, MCMC sampling and time-frequency analysis.
 
 Here is a detailed curriculum vitae [in english](assets/pdfs/CV_en.pdf) and [in french](assets/pdfs/CV_fr.pdf).
 
