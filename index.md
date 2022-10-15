@@ -104,11 +104,11 @@ Further, I developed an automated data-driven Stein Unbiased Risk Estimate based
 
 
 <div align="middle" style="margin-top: 50px">
-  <a href="http://www.cnrs.fr/en"><img class='logo' alt="logo_cnrs" src="assets/images/logo_cnrs.png" align="bottom" style="width:100px;height:100px;"></a>
+  <a href="http://www.cnrs.fr/en"><img class='logo' alt="logo_cnrs" src="assets/images/logo_cnrs.png" align="bottom" style="height:100px;"></a>
 
-  <a href="https://www.ls2n.fr/"><img class='logo' alt="logo_ls2n" src="assets/images/logo_ls2n.png" align="bottom" style="width:175px;height:80px;"></a>
+  <a href="https://www.ls2n.fr/"><img class='logo' alt="logo_ls2n" src="assets/images/logo_ls2n.png" align="bottom" style="height:100px;"></a>
 
-  <a href="https://www.ec-nantes.fr/"> <img class='logo' alt="logo_ECNantes" src="assets/images/logo_ec.png" align="bottom" style="width:260px;height:90px;"></a>
+  <a href="https://www.ec-nantes.fr/"> <img class='logo' alt="logo_ECNantes" src="assets/images/logo_ec.png" align="bottom" style="height:100px;"></a>
 
-  <a href="https://www.univ-nantes.fr/"> <img class='logo' alt="logo_Nantes" src="assets/images/logo_unantes.png" align="bottom" style="width:295px;height:90px;"></a>
+  <a href="https://www.univ-nantes.fr/"> <img class='logo' alt="logo_Nantes" src="assets/images/logo_unantes.png" align="bottom" style="height:80px;"></a>
 </div>
