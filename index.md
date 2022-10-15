@@ -108,5 +108,7 @@ Further, I developed an automated data-driven Stein Unbiased Risk Estimate based
 
   <a href="https://www.ls2n.fr/"><img class='logo' alt="logo_ls2n" src="assets/images/logo_ls2n.png" align="bottom" style="width:175px;height:90px;"></a>
 
-  <a href="https://www.univ-nantes.fr/"> <img class='logo' alt="logo_Nantes" src="assets/images/logo_unantes.png" align="bottom" style="width:270px;height:90px;"></a>
+  <a href="https://www.ec-nantes.fr/"> <img class='logo' alt="logo_ECNantes" src="assets/images/logo_ec.png" align="bottom" style="width:295px;height:90px;"></a>
+
+  <a href="https://www.univ-nantes.fr/"> <img class='logo' alt="logo_Nantes" src="assets/images/logo_unantes.png" align="bottom" style="width:295px;height:90px;"></a>
 </div>
