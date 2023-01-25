@@ -11,7 +11,8 @@ title: "Teaching"
 ### [Second year of engineering degree](https://www.ec-nantes.fr/version-francaise/formation/les-options-de-2e-et-3e-annee)
 
 > **DATASIM** (Data science and statistical learning) *2022-2023*  
-Lecture on Covid19 reproduction number estimation **2h** ([pdf](../assets/pdfs/CM.pdf))
+Lecture on Covid19 reproduction number estimation **2h** ([pdf](../assets/pdfs/CM.pdf))  
+Lab session on Covid19 reproduction number estimation *via* nonsmooth convex optimization **4h** ([pdf](../assets/pdfs/TP_covid.pdf),[data](../assets/data/data_covid.mat))
 
 ## [École Centrale Lille](https://centralelille.fr/), France
 
