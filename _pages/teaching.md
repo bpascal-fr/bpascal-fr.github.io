@@ -6,6 +6,13 @@ author_profile: true
 title: "Teaching"
 ---
 
+## [École Centrale Nantes](https://www.ec-nantes.fr/), France
+
+### [Second year of engineering degree](https://www.ec-nantes.fr/version-francaise/formation/les-options-de-2e-et-3e-annee)
+
+> **DATASIM** (Data science and statistical learning) *2022-2023*  
+Lecture on Covid19 reproduction number estimation **2h** ([pdf](../assets/pdfs/CM.pdf))
+
 ## [École Centrale Lille](https://centralelille.fr/), France
 
 ### [Engineering degree](https://ecole.centralelille.fr/)
