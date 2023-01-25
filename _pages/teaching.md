@@ -12,7 +12,7 @@ title: "Teaching"
 
 > **DataSIM** (Data science and statistical learning) *2022-2023*  
 Lecture on Biomedical Signals (Pandemic monitoring) **2h** ([pdf](../assets/pdfs/CM.pdf))  
-Lab session on Covid19 reproduction number estimation *via* nonsmooth convex optimization **4h** ([pdf](../assets/pdfs/TP_covid.pdf),[data](../assets/data/data_covid.mat))
+Lab session on Covid19 reproduction number estimation *via* nonsmooth convex optimization **4h** ([pdf](../assets/pdfs/TP_Covid.pdf),[data](../assets/data/data_covid.mat))
 
 ## [École Centrale Lille](https://centralelille.fr/), France
 
