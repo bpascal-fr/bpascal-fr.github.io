@@ -20,7 +20,7 @@ title: "Invited talks"
 
 ## Invited seminars
 
-2. Séminaire Données et Aléatoire Théorie & Applications, Laboratoire Jean Kuntzmann ([LJK](https://www-ljk.imag.fr/)), France  
+2. Séminaire Données et Aléatoire Théorie & Applications, Laboratoire Jean Kuntzmann ([LJK](https://www-ljk.imag.fr/)), Grenoble, France  
 ``**Proximal schemes for the estimation of the reproduction number of Covid19: From convex optimization to Monte Carlo sampling'' ([slides](../assets/pdfs/LJK23.pdf))  
 April 6th, 2023. *Organizer:* Kévin Polisano.
 1. Seminar of SIMUL team, Centre de Recherche en Automatique de Nancy ([CRAN](http://www.cran.univ-lorraine.fr/)), France  
@@ -38,13 +38,13 @@ March 7th, 2022. *Organizer:* Rémy Abergel.
 1. Seminar of the Géométrie, Apprentissage, Information, Algorithmes (GAIA) pole, [GISPA-Lab](http://www.gipsa-lab.fr/), Grenoble  
 ``**Processing nonstationary data: representations, theory, algorithms and applications.**'' ([slides](../assets/pdfs/Grenoble21.pdf))  
 December 16th, 2021. *Organizer:* Guillaume Becq.
-1. Seminar of the Signal IMage et Son (SIMS) team, [LS2N](https://www.ls2n.fr/), Nantes  
+1. Seminar of the Signal IMage et Son (SIMS) team, [LS2N](https://www.ls2n.fr/), Nantes, France
 ``**Processing nonstationary data: representations, theory, algorithms and applications.**'' ([slides](../assets/pdfs/Nantes21.pdf))  
 December 10th, 2021. *Organizer:* Clément Huneau.
 1. Séminaire de Statistique et Optimisation, [Institut de Mathématiques de Toulouse](https://www.math.univ-toulouse.fr/)  
 ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/Toulouse21.pdf))  
 October 12th, 2021. *Organizers:* Mélisande Albert, Adrien Mazoyer and Pierre Weiss.
-1. Workshop on Point Processes and Applications, [CRIStAL](https://www.cristal.univ-lille.fr/spip.php?page=rubrique&id_rubrique=1) & [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), University of Lille  
+1. Workshop on Point Processes and Applications, [CRIStAL](https://www.cristal.univ-lille.fr/spip.php?page=rubrique&id_rubrique=1) & [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), University of Lille, France  
 ``**A link between Majorana Stellar representation of pure spin states and Coulomb gas on the sphere**"  ([slides](../assets/pdfs/gt-pp.pdf))  
 May 28th, 2021. *Organizer:* Mylène Maida.
 1. [Séminaire Cristolien d'Analyse Multifractale](https://sites.math.u-pem.fr/scam/) (SCAM), Centre de Mathématiques, Créteil  
