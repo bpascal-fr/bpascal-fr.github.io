@@ -21,7 +21,7 @@ title: "Invited talks"
 ## Invited seminars
 
 2. Séminaire Données et Aléatoire Théorie & Applications, Laboratoire Jean Kuntzmann ([LJK](https://www-ljk.imag.fr/)), Grenoble, France  
-``**Proximal schemes for the estimation of the reproduction number of Covid19: From convex optimization to Monte Carlo sampling'' ([slides](../assets/pdfs/LJK23.pdf))  
+``**Proximal schemes for the estimation of the reproduction number of Covid19: From convex optimization to Monte Carlo sampling**'' ([slides](../assets/pdfs/LJK23.pdf))  
 April 6th, 2023. *Organizer:* Kévin Polisano.
 1. Seminar of SIMUL team, Centre de Recherche en Automatique de Nancy ([CRAN](http://www.cran.univ-lorraine.fr/)), France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests.**'' ([slides](../assets/pdfs/CRAN22.pdf))  
