@@ -20,10 +20,13 @@ title: "Invited talks"
 
 ## Invited seminars
 
-2. Séminaire Données et Aléatoire Théorie & Applications, Laboratoire Jean Kuntzmann ([LJK](https://www-ljk.imag.fr/)), Grenoble, France  
+1. Journées ANR Mistic, Mathématiques Appliquées à Paris 5 ([MISTIC](https://mistic.math.cnrs.fr/?p=150)), France  
+``**Texture segmentation based on fractal attributes**'' ([slides](../assets/pdfs/MISTIC23.pdf))  
+April 7th, 2023. *Organizer:* Jonathan Vacher & Mariem Abaach.
+7. Séminaire Données et Aléatoire Théorie & Applications, Laboratoire Jean Kuntzmann ([LJK](https://www-ljk.imag.fr/)), Grenoble, France  
 ``**Proximal schemes for the estimation of the reproduction number of Covid19: From convex optimization to Monte Carlo sampling**'' ([slides](../assets/pdfs/LJK23.pdf))  
 April 6th, 2023. *Organizer:* Kévin Polisano.
-1. Seminar of SIMUL team, Centre de Recherche en Automatique de Nancy ([CRAN](http://www.cran.univ-lorraine.fr/)), France  
+6. Seminar of SIMUL team, Centre de Recherche en Automatique de Nancy ([CRAN](http://www.cran.univ-lorraine.fr/)), France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests.**'' ([slides](../assets/pdfs/CRAN22.pdf))  
 July 12th, 2022. *Organizer:* Julien Flamant.
 1. Signal and Machine Learning seminar, Institut de Mathématiques de Marseille ([I2M](https://www.i2m.univ-amu.fr/)), France  
