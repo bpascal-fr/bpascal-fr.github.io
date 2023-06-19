@@ -8,6 +8,10 @@ title: "Invited talks"
 
 ## Symposia, mini-courses and conferences without proceedings
 
+* Invited talk ``**Proximal schemes for the estimation of the reproduction number of Covid19 pandemic: from convex optimization to Monte Carlo sampling**'' ([slides](../assets/pdfs/SISYPHE.pdf))  
+**B. Pascal**, G. Fort, N. Pustelnik, and P. Abry,  
+Workshop on Variational approaches for signal and image processing
+ [Laboratoire de Physique, ENS Lyon](http://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing/mlsp22_SiSyPhe), Lyon, France, November 18 2022.
 * Invited talk ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/MIA22.pdf))  
 **B. Pascal**, N. Pustelnik, S. Vaiter and P. Abry,  
 French-Italian workshop on the Mathematics of Imaging, Vision and their Applications [MIA-MIVA](https://sites.google.com/view/workshop-mia-miva/home), Sophia-Antiplois, France, September 12-14 2022.
