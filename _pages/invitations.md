@@ -87,11 +87,13 @@ December 10th, 2020. *Organizer:* [Laurent Jacques](https://laurentjacques.gitla
 {: reversed="reversed"}
 
 ## Presentation in research groups
-
-2. Presentation of the paper ``**Quasi Monte Carlo Time-Frequency Analysis**" [arXiv](https://arxiv.org/pdf/2011.02025.pdf) ([slides](../assets/pdfs/Avron_qMCTF.pdf))  
+3. Presentation of the paper ``**Algorithmes proximaux rapides déroulés pour l’analyse d’images fractales homogènes par morceaux**" ([hal](https://hal.science/hal-03621545/document),[slides](../assets/pdfs/ML22.pdf))  
+*Machine Learning reading group of [SIMS](https://sims.ls2n.fr/) team*  
+December 6th 2022
+1. Presentation of the paper ``**Quasi Monte Carlo Time-Frequency Analysis**" ([arXiv](https://arxiv.org/pdf/2011.02025.pdf),[slides](../assets/pdfs/Avron_qMCTF.pdf))  
 *Reading group of the research team of [R.Bardenet](http://rbardenet.github.io/)*  
 May 12th 2021
-1. Presentation of the paper ``**Free fermions and α-determinantal processes**" [arXiv](https://arxiv.org/pdf/1811.11556.pdf) ([slides](../assets/pdfs/FreeFermions_BPascal.pdf))  
+1. Presentation of the paper ``**Free fermions and α-determinantal processes**" ([arXiv](https://arxiv.org/pdf/1811.11556.pdf),[slides](../assets/pdfs/FreeFermions_BPascal.pdf))  
 *Reading group of the research team of [R.Bardenet](http://rbardenet.github.io/)*  
 November 12th 2020
 {: reversed="reversed"}
