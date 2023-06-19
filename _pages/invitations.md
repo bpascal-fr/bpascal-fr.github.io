@@ -35,13 +35,16 @@ April 7th, 2023. *Organizers:* Jonathan Vacher & Mariem Abaach.
 April 6th, 2023. *Organizer:* Kévin Polisano.
 6. Applied mathematics seminar, Laboratoire de Mathématiques Jean Leray ([LMA](https://www.math.sciences.univ-nantes.fr/fr)), Nantes, France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/LMA22.pdf))  
-November 29th, 2022. *Organizer:* Aymeric Stamm
+November 29th, 2022. *Organizer:* Aymeric Stamm.
 6. Probability, Statistics and Applications seminar, Laboratoire de Mathématiques et Applications ([LMA](http://rech-math.sp2mi.univ-poitiers.fr/)), Poitiers, France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/LMA22.pdf))  
-November 24th, 2022. *Organizers:* Farida Enikeeva, Sandrine Dallaporta
+November 24th, 2022. *Organizers:* Farida Enikeeva, Sandrine Dallaporta.
 6. Probability and statistics team seminar, Laboratoire J.-A. Dieudonné ([LJAD](https://math.unice.fr/)), Nice, France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/LJAD22.pdf))  
-October 18th, 2022. *Organizer:* Damien Garreau
+October 18th, 2022. *Organizer:* Damien Garreau.
+6. Machine Learning and Signal Processing seminar, Laboratoire de Physique de l'ENS Lyon ([LP-ENSL](http://www.ens-lyon.fr/PHYSIQUE)), Lyon, France  
+``**Generalized time-frequency transforms and their zeros**'' ([slides](../assets/pdfs/ENSL22.pdf))  
+September 28th, 2022. *Organizer:* Titouan Vayer.
 1. Seminar of SIMUL team, Centre de Recherche en Automatique de Nancy ([CRAN](http://www.cran.univ-lorraine.fr/)), France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/CRAN22.pdf))  
 July 12th, 2022. *Organizer:* Julien Flamant.
