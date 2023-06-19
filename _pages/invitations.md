@@ -8,9 +8,12 @@ title: "Invited talks"
 
 ## Symposia, mini-courses and conferences without proceedings
 
-* Mini-course `**Point processes and spatial statistics in time-frequency analysis**'  
+* Invited talk ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/MIA22.pdf))  
+**B. Pascal**, N. Pustelnik, S. Vaiter and P. Abry,  
+French-Italian workshop on the Mathematics of Imaging, Vision and their Applications [MIA-MIVA](https://sites.google.com/view/workshop-mia-miva/home), Sophia-Antiplois, France, September 12-14 2022.
+* Mini-course ``**Point processes and spatial statistics in time-frequency analysis**'', ([slides](../assets/pdfs/SP-and-GAF_B-Pascal.pdf), [codes](https://github.com/bpascal-fr/GeoSto-PP-for-TF))  
 [Stochastic Geometry Days](https://www.mathconf.org/sgd2021), Dunkerque, France, November 15-19 2021
-([slides](../assets/pdfs/SP-and-GAF_B-Pascal.pdf), [codes](https://github.com/bpascal-fr/GeoSto-PP-for-TF))
+**B. Pascal**, and R. Bardenet,  
 * Poster presentation ``**Joint estimation of local variance and local regularity for texture segmentation**'' ([poster](../assets/pdfs/CS18.pdf))  
 **B. Pascal**, N. Pustelnik, and P. Abry,  
  [Curves and Surfaces](https://cs2018.sciencesconf.org/), Arcachon, France, June 28th au 4 July 4th 2018.
@@ -22,7 +25,7 @@ title: "Invited talks"
 
 8. Journées ANR Mistic, Mathématiques Appliquées à Paris 5 ([MISTIC](https://mistic.math.cnrs.fr/?p=150)), France  
 ``**Texture segmentation based on fractal attributes**'' ([slides](../assets/pdfs/MISTIC23.pdf))  
-April 7th, 2023. *Organizer:* Jonathan Vacher & Mariem Abaach.
+April 7th, 2023. *Organizers:* Jonathan Vacher & Mariem Abaach.
 7. Séminaire Données et Aléatoire Théorie & Applications, Laboratoire Jean Kuntzmann ([LJK](https://www-ljk.imag.fr/)), Grenoble, France  
 ``**Proximal schemes for the estimation of the reproduction number of Covid19: From convex optimization to Monte Carlo sampling**'' ([slides](../assets/pdfs/LJK23.pdf))  
 April 6th, 2023. *Organizer:* Kévin Polisano.
