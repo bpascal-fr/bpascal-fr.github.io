@@ -8,6 +8,11 @@ title: "Invited talks"
 
 ## Symposia, mini-courses and conferences without proceedings
 
+* Invited talk ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/CRM2023.pdf))  
+**B. Pascal**, N. Pustelnik, P. Abry, V. Vidal, and S. Vaiter  
+Summer School on Harmonic and Multifractal Analyses: from Mathematics to Quantitative Neuroscience
+ [Centre de Recherches Mathématiques](https://www.crmath.ca/en/activities/#/type/activity/id/3885), 
+ Montréal, Canada, July 3-14 2023.
 * Invited talk ``**Proximal schemes for the estimation of the reproduction number of Covid19 pandemic: from convex optimization to Monte Carlo sampling**'' ([slides](../assets/pdfs/SISYPHE.pdf))  
 **B. Pascal**, G. Fort, N. Pustelnik, and P. Abry,  
 Workshop on Variational approaches for signal and image processing
