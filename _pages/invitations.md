@@ -8,7 +8,7 @@ title: "Invited talks"
 
 ## Symposia, mini-courses and conferences without proceedings
 
-* Invited talk ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/CRM2023.pdf))  
+* Invited talk ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/CRM23.pdf))  
 **B. Pascal**, N. Pustelnik, P. Abry, V. Vidal, and S. Vaiter  
 Summer School on Harmonic and Multifractal Analyses: from Mathematics to Quantitative Neuroscience
  [Centre de Recherches Mathématiques](https://www.crmath.ca/en/activities/#/type/activity/id/3885), 
