@@ -9,20 +9,20 @@ title: "Invited talks"
 ## Symposia, mini-courses and conferences without proceedings
 
 * Invited talk ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/CRM23.pdf))  
-**B. Pascal**, N. Pustelnik, P. Abry, V. Vidal, and S. Vaiter  
-Summer School on Harmonic and Multifractal Analyses: from Mathematics to Quantitative Neuroscience
+**B. Pascal**, N. Pustelnik, P. Abry, V. Vidal, and S. Vaiter,  
+Summer School on Harmonic and Multifractal Analyses: from Mathematics to Quantitative Neuroscience,
  [Centre de Recherches Mathématiques](https://www.crmath.ca/en/activities/#/type/activity/id/3885), 
  Montréal, Canada, July 3-14 2023.
 * Invited talk ``**Proximal schemes for the estimation of the reproduction number of Covid19 pandemic: from convex optimization to Monte Carlo sampling**'' ([slides](../assets/pdfs/SISYPHE.pdf))  
 **B. Pascal**, G. Fort, N. Pustelnik, and P. Abry,  
-Workshop on Variational approaches for signal and image processing
+Workshop on Variational approaches for signal and image processing,
  [Laboratoire de Physique, ENS Lyon](http://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing/mlsp22_SiSyPhe), Lyon, France, November 18 2022.
 * Invited talk ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/MIA22.pdf))  
 **B. Pascal**, N. Pustelnik, S. Vaiter and P. Abry,  
 French-Italian workshop on the Mathematics of Imaging, Vision and their Applications [MIA-MIVA](https://sites.google.com/view/workshop-mia-miva/home), Sophia-Antiplois, France, September 12-14 2022.
 * Mini-course ``**Point processes and spatial statistics in time-frequency analysis**'', ([slides](../assets/pdfs/SP-and-GAF_B-Pascal.pdf), [codes](https://github.com/bpascal-fr/GeoSto-PP-for-TF))  
-[Stochastic Geometry Days](https://www.mathconf.org/sgd2021), Dunkerque, France, November 15-19 2021
 **B. Pascal**, and R. Bardenet,  
+[Stochastic Geometry Days](https://www.mathconf.org/sgd2021), Dunkerque, France, November 15-19 2021.
 * Poster presentation ``**Joint estimation of local variance and local regularity for texture segmentation**'' ([poster](../assets/pdfs/CS18.pdf))  
 **B. Pascal**, N. Pustelnik, and P. Abry,  
  [Curves and Surfaces](https://cs2018.sciencesconf.org/), Arcachon, France, June 28th au 4 July 4th 2018.
