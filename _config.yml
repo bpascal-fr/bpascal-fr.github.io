@@ -98,7 +98,7 @@ analytics:
 # _includes/author-profile-custom-links.html
 author:
   name: "Barbara Pascal"
-  avatar: "/assets/images/bpascal_ECN.jpg"
+  avatar: "/assets/images/bpascal_ECN.jpeg"
   bio: "I am currently a CNRS Researcher in the LS2N, in Nantes, France. Before that I was a researcher postdoctoral researcher at the CRIStAL for two years, taking part in the ERC project of [R. Bardenet](http://rbardenet.github.io/). I received the degree of *Professeur-Agrégé* of Mathematics in 2016 at [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/), then completed my M.S. degree in Physics from the [ENS Lyon](http://www.ens-lyon.fr/), France, in 2017, and received the Ph.D degree in Signal & Image Processing from the [ENSL](http://www.ens-lyon.fr/) in 2020, for my work at the [Laboratoire de Physique](http://www.ens-lyon.fr/PHYSIQUE), under the supervision of [P. Abry](https://perso.ens-lyon.fr/patrice.abry/) and [N. Pustelnik](https://perso.ens-lyon.fr/nelly.pustelnik/)."
   location: "Nantes, France"
   email: "barbara.pascal@cnrs.fr"
