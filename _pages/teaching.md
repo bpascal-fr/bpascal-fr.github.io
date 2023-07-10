@@ -8,11 +8,16 @@ title: "Teaching"
 
 ## [École Centrale Nantes](https://www.ec-nantes.fr/), France
 
-### [Second year of engineering degree](https://www.ec-nantes.fr/version-francaise/formation/les-options-de-2e-et-3e-annee)
+### [Second year of engineering degree:](https://www.ec-nantes.fr/version-francaise/formation/les-options-de-2e-et-3e-annee)  **DataSIM** (Data science and statistical learning)
 
-> **DataSIM** (Data science and statistical learning) *2022-2023*  
-Lecture on Biomedical Signals (Pandemic monitoring) **2h** ([pdf](../assets/pdfs/CM.pdf))  
-Lab session on Covid19 reproduction number estimation *via* nonsmooth convex optimization **4h** ([pdf](../assets/pdfs/TP_Covid.pdf),[data](../assets/data/data_covid.mat))
+>**Biomedical Signals** *2022-2023*  
+Lecture on epidemic monitoring **2h** ([pdf](../assets/pdfs/CM.pdf))  
+Lab session on Covid19 reproduction number estimation *via* nonsmooth convex optimization **4h** ([pdf](../assets/pdfs/TP_Covid.pdf),[data](../assets/data/data_covid.mat))  
+
+>**Signal and Image processing research projects**
+* *Description vs. generation in metric learning*, co-supervised with [M. Lagrange](https://mathieulagrange.github.io/) 
+* *Learning signal representations robust to acquisition modality*, co-supervised with [V. Lostanlen](https://www.lostanlen.com/)
+* *Point processes in machine learning*,  co-supervised with [V. Lostanlen](https://www.lostanlen.com/)
 
 ## [École Centrale Lille](https://centralelille.fr/), France
 
