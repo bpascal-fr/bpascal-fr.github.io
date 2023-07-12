@@ -20,6 +20,11 @@ Lab session on Covid19 reproduction number estimation *via* nonsmooth convex opt
 * *Learning signal representations robust to acquisition modality*, co-supervised with [V. Lostanlen](https://www.lostanlen.com/)
 * *Point processes in machine learning*,  co-supervised with [V. Lostanlen](https://www.lostanlen.com/)
 
+### [Master Control and Robotics, Signal and Image Processing](https://www.ec-nantes.fr/study/masters/signal-and-image-processing)
+
+> **Nonsmooth convex optimization** - (2nd year of master) *2022-2023*  
+Lectures on convex optimization and proximal algorithms **4h** ([Part I](../assets/pdfs/Nonsmooth_optimization_I.pdf.pdf), [Part II](../assets/pdfs/Nonsmooth_optimization_II.pdf.pdf), [Part III](../assets/pdfs/Nonsmooth_optimization_III.pdf.pdf), [Exercices](../assets/pdfs/exercices_CORO-SIP.pdf))  
+Lab session on Covid19 reproduction number estimation *via* nonsmooth convex optimization **2h** ([pdf](../assets/pdfs/TP_Covid.pdf),[data](../assets/data/data_covid.mat))  
 ## [École Centrale Lille](https://centralelille.fr/), France
 
 ### [Engineering degree](https://ecole.centralelille.fr/)
