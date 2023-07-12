@@ -38,7 +38,7 @@ April 7th, 2023. *Organizers:* Jonathan Vacher & Mariem Abaach.
 7. Séminaire Données et Aléatoire Théorie & Applications, Laboratoire Jean Kuntzmann ([LJK](https://www-ljk.imag.fr/)), Grenoble, France  
 ``**Proximal schemes for the estimation of the reproduction number of Covid19: From convex optimization to Monte Carlo sampling**'' ([slides](../assets/pdfs/LJK23.pdf))  
 April 6th, 2023. *Organizer:* Kévin Polisano.
-6. Applied mathematics seminar, Laboratoire de Mathématiques Jean Leray ([LMA](https://www.math.sciences.univ-nantes.fr/fr)), Nantes, France  
+6. Applied mathematics seminar, Laboratoire de Mathématiques Jean Leray ([LMJL](https://www.math.sciences.univ-nantes.fr/fr)), Nantes, France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/LMA22.pdf))  
 November 29th, 2022. *Organizer:* Aymeric Stamm.
 6. Probability, Statistics and Applications seminar, Laboratoire de Mathématiques et Applications ([LMA](http://rech-math.sp2mi.univ-poitiers.fr/)), Poitiers, France  
