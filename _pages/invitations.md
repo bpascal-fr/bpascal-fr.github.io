@@ -32,22 +32,25 @@ French-Italian workshop on the Mathematics of Imaging, Vision and their Applicat
 
 ## Invited seminars
 
-8. Journées ANR Mistic, Mathématiques Appliquées à Paris 5 ([MISTIC](https://mistic.math.cnrs.fr/?p=150)), France  
+1. Probability and statistics seminar, Institut Élie Cartan de Lorraine ([IECL](https://iecl.univ-lorraine.fr/)), Nancy, France  
+``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/IECL23.pdf))  
+June 8th, 2023. *Organizers:* Ulysse Herbach, Edouard Strickler.
+1. Journées ANR Mistic, Mathématiques Appliquées à Paris 5 ([MISTIC](https://mistic.math.cnrs.fr/?p=150)), France  
 ``**Texture segmentation based on fractal attributes**'' ([slides](../assets/pdfs/MISTIC23.pdf))  
 April 7th, 2023. *Organizers:* Jonathan Vacher & Mariem Abaach.
-7. Séminaire Données et Aléatoire Théorie & Applications, Laboratoire Jean Kuntzmann ([LJK](https://www-ljk.imag.fr/)), Grenoble, France  
+1. Séminaire Données et Aléatoire Théorie & Applications, Laboratoire Jean Kuntzmann ([LJK](https://www-ljk.imag.fr/)), Grenoble, France  
 ``**Proximal schemes for the estimation of the reproduction number of Covid19: From convex optimization to Monte Carlo sampling**'' ([slides](../assets/pdfs/LJK23.pdf))  
 April 6th, 2023. *Organizer:* Kévin Polisano.
-6. Applied mathematics seminar, Laboratoire de Mathématiques Jean Leray ([LMJL](https://www.math.sciences.univ-nantes.fr/fr)), Nantes, France  
+1. Applied mathematics seminar, Laboratoire de Mathématiques Jean Leray ([LMJL](https://www.math.sciences.univ-nantes.fr/fr)), Nantes, France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/LMA22.pdf))  
 November 29th, 2022. *Organizer:* Aymeric Stamm.
-6. Probability, Statistics and Applications seminar, Laboratoire de Mathématiques et Applications ([LMA](http://rech-math.sp2mi.univ-poitiers.fr/)), Poitiers, France  
+1. Probability, Statistics and Applications seminar, Laboratoire de Mathématiques et Applications ([LMA](http://rech-math.sp2mi.univ-poitiers.fr/)), Poitiers, France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/LMA22.pdf))  
 November 24th, 2022. *Organizers:* Farida Enikeeva, Sandrine Dallaporta.
-6. Probability and statistics team seminar, Laboratoire J.-A. Dieudonné ([LJAD](https://math.unice.fr/)), Nice, France  
+1. Probability and statistics team seminar, Laboratoire J.-A. Dieudonné ([LJAD](https://math.unice.fr/)), Nice, France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/LJAD22.pdf))  
 October 18th, 2022. *Organizer:* Damien Garreau.
-6. Machine Learning and Signal Processing seminar, Laboratoire de Physique de l'ENS Lyon ([LP-ENSL](http://www.ens-lyon.fr/PHYSIQUE)), Lyon, France  
+1. Machine Learning and Signal Processing seminar, Laboratoire de Physique de l'ENS Lyon ([LP-ENSL](http://www.ens-lyon.fr/PHYSIQUE)), Lyon, France  
 ``**Generalized time-frequency transforms and their zeros**'' ([slides](../assets/pdfs/ENSL22.pdf))  
 September 28th, 2022. *Organizer:* Titouan Vayer.
 1. Seminar of SIMUL team, Centre de Recherche en Automatique de Nancy ([CRAN](http://www.cran.univ-lorraine.fr/)), France  
