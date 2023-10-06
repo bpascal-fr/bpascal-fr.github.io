@@ -8,35 +8,11 @@ I am currently a CNRS Researcher [LS2N](https://www.ls2n.fr/) in the team [Signa
 
 Here is a detailed curriculum vitae [in english](assets/pdfs/CV_en.pdf) and [in french](assets/pdfs/CV_fr.pdf).
 
-## Research interests
-
-### Generalized time-frequency transforms and their zeros
-
-**!NEW!** Our journal [preprint](assets/pdfs/kravchuk_hal.pdf) introducing a novel covariant transform tailored for *discrete* signals and designing detection methodology based on the zeros of the associated spectrogram has been submitted and is now available on [hal](https://hal.archives-ouvertes.fr/hal-03553433/) and [arXiv](https://arxiv.org/pdf/2202.03835.pdf). The associated `Python` codes are available on [GitHub](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros).
-
-<div align="middle">
-<img width="300" src="assets/images/power_snr_256_duration_15.png" align="center">
-        <p align="center">Power of the signal detection test depending on the functional statistics</p>
-</div>
-
-My postdoctoral project focuses on the construction of *extended* **time-frequency transforms** and the study of their zeros, participating to the ERC project **Blackjack** holded by [Rémi Bardenet](https://rbardenet.github.io/).  
-
-I am notably interested in the **statistics** of the random point process consisting of the zeros of the transform of white Gaussian noise, with the purpose to renew standard signal processing procedures classically based on spectrogram maxima by developing alternative zero-based methodologies. I am currently designing signal detection strategies leveraging the spatial statistics of the zeros of the new covariant transform we built.  
-
-To give theoretical ground to this work, I investigates the links between covariant representations and **Gaussian Analytic Functions** making use of an **algebraic** formulation of generalized time-frequency transforms emphasizing the action an underlying symmetry group.
-Further, I intend to benefits from a parallel with the quantum theory of **coherent states** in collaboration with Alexandre Feller.  
-
-
-<div align="middle">
-<img width="200" src="assets/images/zeros_spherical.png" align="center">
-        <p align="center">Zeros of the spherical Gaussian Analytic Function</p>
-</div>
-<div align="middle">
-<img width="200" src="assets/images/zeros_Kravchuk.png" align="center">
-        <p align="center">Spherical time-frequency transform in the presence of a signal</p>
-</div>
+# Research interests
 
 ## Estimation of the reproduction number of the Covid-19 pandemic
+
+**!NEW!** A two-years postdoc position in signal processing and Monte Carlo methods applied to epidemiology has opened in Nantes. More details can be found in the [offer](assets/pdfs/PostdocOffer.pdf).
 
 The daily surveillance of the Covid-19 pandemic relies on the reproduction number *R0*, which accounts for the averaged number of secondary cases stemming from a primary infection.
 The precise, fast and robust estimation of this indicator is thus of utmost importance for National Health Authorities to design sanitary politics.
@@ -80,6 +56,33 @@ To that aim, we design Markov chain Monte Carlo scheme, leveraging the Adjusted 
 <img width="400" src="assets/images/Singaporeb.png" align="center">
 </div>
 </div>  
+
+
+### Generalized time-frequency transforms and their zeros
+
+Our journal [preprint](assets/pdfs/kravchuk_hal.pdf) introducing a novel covariant transform tailored for *discrete* signals and designing detection methodology based on the zeros of the associated spectrogram has been published in *IEEE Transactions on Signal Processing*. It is available on [hal](https://hal.archives-ouvertes.fr/hal-03553433/) and [arXiv](https://arxiv.org/pdf/2202.03835.pdf). The associated `Python` codes are available on [GitHub](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros).
+
+<div align="middle">
+<img width="300" src="assets/images/power_snr_256_duration_15.png" align="center">
+        <p align="center">Power of the signal detection test depending on the functional statistics</p>
+</div>
+
+My postdoctoral project focuses on the construction of *extended* **time-frequency transforms** and the study of their zeros, participating to the ERC project **Blackjack** holded by [Rémi Bardenet](https://rbardenet.github.io/).  
+
+I am notably interested in the **statistics** of the random point process consisting of the zeros of the transform of white Gaussian noise, with the purpose to renew standard signal processing procedures classically based on spectrogram maxima by developing alternative zero-based methodologies. I am currently designing signal detection strategies leveraging the spatial statistics of the zeros of the new covariant transform we built.  
+
+To give theoretical ground to this work, I investigates the links between covariant representations and **Gaussian Analytic Functions** making use of an **algebraic** formulation of generalized time-frequency transforms emphasizing the action an underlying symmetry group.
+Further, I intend to benefits from a parallel with the quantum theory of **coherent states** in collaboration with Alexandre Feller.  
+
+
+<div align="middle">
+<img width="200" src="assets/images/zeros_spherical.png" align="center">
+        <p align="center">Zeros of the spherical Gaussian Analytic Function</p>
+</div>
+<div align="middle">
+<img width="200" src="assets/images/zeros_Kravchuk.png" align="center">
+        <p align="center">Spherical time-frequency transform in the presence of a signal</p>
+</div>
 
 ### Fractal texture segmentation relying on convex nonsmooth optimization
 
