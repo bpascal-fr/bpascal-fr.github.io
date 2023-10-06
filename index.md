@@ -12,7 +12,7 @@ Here is a detailed curriculum vitae [in english](assets/pdfs/CV_en.pdf) and [in 
 
 ## Estimation of the reproduction number of the Covid-19 pandemic
 
-**!NEW!** A two-years postdoc position in signal processing and Monte Carlo methods applied to epidemiology has opened in Nantes. More details can be found in the [offer](assets/pdfs/PostdocOffer.pdf).
+**!NEW!** A *two-years postdoc position* in signal processing and Monte Carlo methods applied to epidemiology has opened in Nantes. More details can be found in the [offer](assets/pdfs/PostdocOffer.pdf).
 
 The daily surveillance of the Covid-19 pandemic relies on the reproduction number *R0*, which accounts for the averaged number of secondary cases stemming from a primary infection.
 The precise, fast and robust estimation of this indicator is thus of utmost importance for National Health Authorities to design sanitary politics.
