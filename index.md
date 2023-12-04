@@ -10,9 +10,26 @@ Here is a detailed curriculum vitae [in english](assets/pdfs/CV_en.pdf) and [in 
 
 # Research interests
 
+## Inverse problems in audio
+
+**NEW** A master internship on *Probabilistic Diffusion Models for audio inpainting* supervised by [Mathieu Lagrange](https://mathieulagrange.github.io/) and myself has opened at LS2N for Spring 2024. More details can be found in the [offer](assets/pdfs/internship2324_inpaint-audio_LS2N.pdf). For applications please contact Mathieu Lagrange and I by email (see contact in the offer).
+
+Available audio signals often have undergone different types of degradation, either during their acquisition, e.g., the recording of a piece of music on a physical medium, and/or during their transmission, e.g., in phone conversations.
+A very common yet severe degradation consists in *missing samples*, encompassing the case when samples have been distorted so much that they no longer contain relevant information.
+
+E.g. in the figure below, the observed signal, plotted in dark green, is the typical output obtained from a saturating sensor: the values of the ground truth signal, plotted in light green, are cut when their amplitude is larger than a given threshold, inducing locally a total loss of information.
+
+<div id='content' align="middle">
+<div align="middle">
+<img width="400" src="assets/images/clipped_signal.png" align="center">
+        <p align="center">Loss of samples due to saturation of audio sensor</p>
+</div>
+
+*Audio inpainting* consists in reconstructing missing samples with maximal possible accuracy. 
+
 ## Estimation of the reproduction number of the Covid-19 pandemic
 
-**!NEW!** A *two-years postdoc position* in signal processing and Monte Carlo methods applied to epidemiology has opened in Nantes. More details can be found in the [offer](assets/pdfs/PostdocOffer.pdf).
+**NEW** A *two-years postdoc position* in signal processing and Monte Carlo methods applied to epidemiology has opened in Nantes. More details can be found in the [offer](assets/pdfs/PostdocOffer.pdf). For applications please contact Jérôme Idier, Sébastien Bourguignon and I by email (see contact in the offer).
 
 The daily surveillance of the Covid-19 pandemic relies on the reproduction number *R0*, which accounts for the averaged number of secondary cases stemming from a primary infection.
 The precise, fast and robust estimation of this indicator is thus of utmost importance for National Health Authorities to design sanitary politics.
