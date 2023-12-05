@@ -24,6 +24,7 @@ E.g. in the figure below, the observed signal, plotted in dark green, is the typ
 <img width="400" src="assets/images/clipped_signal.png" align="center">
         <p align="center">Loss of samples due to saturation of audio sensor</p>
 </div>
+</div>
 
 *Audio inpainting* consists in reconstructing missing samples with maximal possible accuracy. 
 
