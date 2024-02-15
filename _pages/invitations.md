@@ -13,7 +13,7 @@ title: "Invited talks"
 Summer School on Harmonic and Multifractal Analyses: from Mathematics to Quantitative Neuroscience,
  [Centre de Recherches Mathématiques](https://www.crmath.ca/en/activities/#/type/activity/id/3885), 
  Montréal, Canada, July 3-14 2023.
-* Invited talk ``**Proximal schemes for the estimation of the reproduction number of Covid19 pandemic: from convex optimization to Monte Carlo sampling**'' ([slides](../assets/pdfs/SISYPHE.pdf))  
+* Invited talk ``**Proximal schemes for the estimation of the reproduction number of Covid19 pandemic: from convex optimization to Monte Carlo sampling**'' ([slides](../assets/pdfs/SISYPHE22.pdf))  
 **B. Pascal**, G. Fort, N. Pustelnik, and P. Abry,  
 Workshop on Variational approaches for signal and image processing,
  [Laboratoire de Physique, ENS Lyon](http://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing/mlsp22_SiSyPhe), Lyon, France, November 18 2022.
