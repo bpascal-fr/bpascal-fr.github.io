@@ -11,7 +11,7 @@ title: "Softwares"
 [Covid-Estim-R](https://github.com/bpascal-fr/Covid-Estim-R)
 
 In an epidemic outbreak context, such as for example during the Covid19 pandemic, it is of utmost importance for Health Authorities to achieve close daily surveillance of the pathogen transmission.
-The intensity of an epidemic can be quantified at day $t$ through its *effective reproduction number* R(t), defined as the *average number of secondary infections caused by a standard contagious individual*. The major advantage of the effective reproduction number is that it has a straightforward interpretation: if R(t) > 1$, then the epidemic is spreading exponentially fast, and an epidemic wave is to be expected in the absence of countermeasures;  while if R(t), the epidemic is regressing, indicating for example the effectiveness of some social distancing rules.
+The intensity of an epidemic can be quantified at day t through its *effective reproduction number* R(t), defined as the *average number of secondary infections caused by a standard contagious individual*. The major advantage of the effective reproduction number is that it has a straightforward interpretation: if R(t) > 1, then the epidemic is spreading exponentially fast, and an epidemic wave is to be expected in the absence of countermeasures;  while if R(t), the epidemic is regressing, indicating for example the effectiveness of some social distancing rules.
 
 The estimation of the reproduction number on a daily basis crucially relies on collected new infection counts.
 In an emergency situation, these counts are of medium to low quality, due to errors and imprecisions occurring during the measurement and reporting processes, such as irrelevant
