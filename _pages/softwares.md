@@ -7,6 +7,7 @@ title: "Softwares"
 ---
 
 ## Estimation of Covid19 reproduction number via nonsmooth convex optimization
+
 [Covid-Estim-R](https://github.com/bpascal-fr/Covid-Estim-R)
 
 In an epidemic outbreak context, such as for example during the Covid19 pandemic, it is of utmost importance for Health Authorities to achieve close daily surveillance of the pathogen transmission.
@@ -14,24 +15,34 @@ The intensity of an epidemic can be quantified at day $t$ through its *effective
 
 The estimation of the reproduction number on a daily basis crucially relies on collected new infection counts.
 In an emergency situation, these counts are of medium to low quality, due to errors and imprecisions occurring during the measurement and reporting processes, such as irrelevant
-or missing counts, pseudo-seasonalities, week-end, etc. The low quality of collected data severely incurs accurate estimation of $\mathsf{R}_t$ from state-of-the-art epidemiological tools.
+or missing counts, pseudo-seasonalities, week-end, etc. The low quality of collected data severely incurs accurate estimation of R(t) from state-of-the-art epidemiological tools.
 To provide robust estimates of the daily reproduction number, capable to manage low quality Covid19 data, the present work elaborates on a state-of-the-art Poisson propagation model and designs regularizing convex functionals balancing the fidelity to the epidemiological mechanisms and spatiotemporal regularity constraints, leading to four estimators:
 
-- Univariate ($\mathsf{U}$): enforcing temporal piecewise linearity of the estimated $\widehat{\mathsf{R}}_t$;
+- Univariate: enforcing temporal piecewise linearity of the estimated R(t);
 
-- Univariate Corrected ($\mathsf{U}$-$\mathsf{C}$): enforcing temporal piecewise linearity of the estimated $\widehat{\mathsf{R}}_t$ and including the estimation of a sparse corrective term accounting for misreported infection counts;
+- Univariate Corrected: enforcing temporal piecewise linearity of the estimated R(t) and including the estimation of a sparse corrective term accounting for misreported infection counts;
   
-- Multivariate ($\mathsf{M}$): enforcing temporal piecewise linearity and spatial piecewise constancy of the estimated $\widehat{\mathsf{R}}_{c,t}$ in county $c$ at day $t$, based on a prior connectivity structure between counties;
+- Multivariate: enforcing temporal piecewise linearity and spatial piecewise constancy of the estimated R(t) in county c at day t, based on a prior connectivity structure between counties;
 
- - Multivariate Corrected ($\mathsf{M}$-$\mathsf{C}$): enforcing temporal piecewise linearity and spatial piecewise constancy of the estimated $\widehat{\mathsf{R}}_{c,t}$ based on a prior connectivity structure between counties, and including the estimation of a sparse corrective term accounting for misreported infection counts.
+- Multivariate Corrected: enforcing temporal piecewise linearity and spatial piecewise constancy of the estimated R(t) based on a prior connectivity structure between counties, and including the estimation of a sparse corrective term accounting for misreported infection counts.
 
 Fast and memory efficient implementation of the nonsmooth convex optimization problems defining the aforementioned estimators permits daily estimation of the reproduction number in hundreds, possibly connected, territories simultaneously.
 
 [GitHub](https://github.com/bpascal-fr/Covid-Estim-R) (Matlab toolbox)  
 
-Abry, P., Pustelnik, N., Roux, S., Jensen, P., Flandrin, P., Gribonval, R., ... & Garnier, N. (2020). Spatial and temporal regularization to estimate COVID-19 reproduction number R (t): Promoting piecewise smoothness via convex optimization. Plos one, 15(8), e0237901.
+P. Abry, N. Pustelnik,S. Roux, P. Jensen, P. Flandrin, R. Gribonval, C.-G. Lucas, É. Guichard, P. Borgnat, and N. Garnier, N. (2020). Spatial and temporal regularization to estimate COVID-19 reproduction number R (t): Promoting piecewise smoothness via convex optimization. *PlosOne*, 15(8), e0237901.
 
-Pascal, B., Abry, P., Pustelnik, N., Roux, S., Gribonval, R., & Flandrin, P. (2022). Nonsmooth convex optimization to estimate the Covid-19 reproduction number space-time evolution with robustness against low quality data. IEEE Transactions on Signal Processing, 70, 2859-2868. [arxiv:2109.09595](https://arxiv.org/abs/2109.09595)
+B. Pascal, P. Abry, N. Pustelnik, S. Roux, R. Gribonval, and P. Flandrin. (2022). Nonsmooth convex optimization to estimate the Covid-19 reproduction number space-time evolution with robustness against low quality data. *IEEE Transactions on Signal Processing*, 70, 2859-2868. [arxiv:2109.09595](https://arxiv.org/abs/2109.09595)
+
+## Musical Timbre Perception Models: From Perceptual to Learned Approaches
+
+[timbre-metric-learning](https://github.com/bpascal-fr/timbre-metric-learning)
+
+Timbre, encompassing an intricate set of acoustic cues, is key to identify sound sources, and especially to discriminate musical instruments and playing styles. Psychoacoustic studies focusing on timbre deploy massive efforts to explain human timbre perception. To uncover the acoustic substrates of timbre perceived dissimilarity, a recent work leveraged metric learning strategies on different perceptual representations and performed a meta-analysis of seventeen dissimilarity rated musical audio datasets. By learning salient patterns in very high-dimensional representations, metric learning accounts for a reasonably large part of the variance in human ratings. The present work shows that combining the most recent deep audio embeddings with a metric learning approach makes it possible to explains almost all the variance in human dissimilarity ratings. Furthermore, the robustness of the learning procedure against simulated human rating variability is thoroughly investigated. Intensive numerical experiments support the explanatory power and robustness against degraded training data of deep embeddings.
+
+[GitHub](https://github.com/bpascal-fr/timbre-metric-learning) (Python toolbox) 
+
+B. Pascal, and M. Lagrange. (2024). On the Robustness of Musical Timbre Perception Models: From Perceptual to Learned Approaches. *Submitted*. [hal-04501973](https://hal.science/hal-04501973v1/document)
 
 ## Signal detection based on the zeros of the *Kravchuk* spectrogram
 [kravchuk-transform-and-its-zeros](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros)
@@ -40,7 +51,7 @@ Recent work in time-frequency analysis proposed to switch the focus from the max
 
 [GitHub](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros) (Python toolbox)  
 
-Pascal, B., & Bardenet, R. (2022). A covariant, discrete time-frequency representation tailored for zero-based signal detection. IEEE Transactions on Signal Processing, 70, 2950-2961. [arxiv:2202.03835](https://arxiv.org/abs/2202.03835)
+B. Pascal, and R. Bardenet, (2022). A covariant, discrete time-frequency representation tailored for zero-based signal detection. *IEEE Transactions on Signal Processing*, 70, 2950-2961. [arxiv:2202.03835](https://arxiv.org/abs/2202.03835)
 
 ## Point processes and spatial statistics in time-frequency analysis
 [GeoSto-PP-for-TF](https://github.com/bpascal-fr/GeoSto-PP-for-TF)
@@ -57,7 +68,7 @@ Penalized Least Squares are widely used in signal and image processing. Yet, it 
 
 [GitHub](https://github.com/bpascal-fr/gsugar) (Matlab toolbox)  
 
-B. Pascal, S. Vaiter, N. Pustelnik, and P. Abry (2021). Automated data-driven selection of the hyperparameters for Total-Variation based texture segmentation. *J. Math. Imaging Vis.,* 1–30. [arxiv:2004.09434](https://arxiv.org/abs/2004.09434)
+B. Pascal, S. Vaiter, N. Pustelnik, and P. Abry (2021). Automated data-driven selection of the hyperparameters for Total-Variation based texture segmentation. *Journal of Mathematical Imaging and Vision,* 1–30. [arxiv:2004.09434](https://arxiv.org/abs/2004.09434)
 
 ## Signal and image processing for nonlinear physics  
 [stein-piecewise-filtering](https://github.com/bpascal-fr/stein-piecewise-filtering)
