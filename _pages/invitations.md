@@ -40,6 +40,9 @@ French-Italian workshop on the Mathematics of Imaging, Vision and their Applicat
 1. Maths-Signal seminar, Institut de Recherche en Informatique, Mathématiques, Automatique et Signal ([IRIMAS](https://irimas.math.cnrs.fr/)), Mulhouse, France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/IRIMAS24.pdf))  
 June 5, 2024. *Organizer:* Nicolas Juillet.
+1. Signal and image processing seminar, Laboratory for Integration from Material to System ([IMS](https://www.ims-bordeaux.fr/)), Bordeaux, France  
+``**Proximal schemes for the estimation of the reproduction number of Covid19: From convex optimization to Monte Carlo sampling**'' ([slides](../assets/pdfs/IMS23.pdf))  
+October 19, 2023. *Organizer:* Pascal Vallet.
 1. Probability and statistics seminar, Institut Élie Cartan de Lorraine ([IECL](https://iecl.univ-lorraine.fr/)), Nancy, France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/IECL23.pdf))  
 June 8, 2023. *Organizers:* Ulysse Herbach, Edouard Strickler.
