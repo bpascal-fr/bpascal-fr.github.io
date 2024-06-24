@@ -8,6 +8,11 @@ title: "Invited talks"
 
 ## Symposia, mini-courses and conferences without proceedings
 
+* Invited talk ``**Bilevel optimization for automated data-driven inverse problem resolution**'' ([slides](../assets/pdfs/CIRM24.pdf))  
+**B. Pascal**, N. Pustelnik, P. Abry, V. Vidal, and S. Vaiter,  
+Learning and Optimization In Luminy (LOL),
+ [Centre International de Rencontres Mathématiques](https://conferences.cirm-math.fr/3003.html), 
+ Marseille, France, June 17-21 2024.
 * Invited talk ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/CRM23.pdf))  
 **B. Pascal**, N. Pustelnik, P. Abry, V. Vidal, and S. Vaiter,  
 Summer School on Harmonic and Multifractal Analyses: from Mathematics to Quantitative Neuroscience,
