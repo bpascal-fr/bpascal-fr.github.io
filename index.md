@@ -125,7 +125,7 @@ Further, I developed an automated data-driven Stein Unbiased Risk Estimate based
 
 
 <div align="middle" style="margin-top: 50px">
-  <a href="http://www.cnrs.fr/en"><img class='logo' alt="logo_cnrs" src="assets/images/logo_cnrs.png" align="bottom" style="height:100px;"></a>
+  <a href="http://www.cnrs.fr/en"><img class='logo' alt="logo_cnrs" src="assets/images/LOGO_CNRS_BLEU.png" align="bottom" style="height:100px;"></a>
 
   <a href="https://www.ls2n.fr/"><img class='logo' alt="logo_ls2n" src="assets/images/logo_ls2n.png" align="bottom" style="height:100px;"></a>
 
