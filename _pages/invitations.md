@@ -37,7 +37,7 @@ French-Italian workshop on the Mathematics of Imaging, Vision and their Applicat
 
 ## Invited seminars
 
-1. Maths-Signal seminar, Institut de Recherche en Informatique, Mathématiques, Automatique et Signal ([IRIMAS](https://irimas.math.cnrs.fr/)), Mulhouse, France  
+2. Maths-Signal seminar, Institut de Recherche en Informatique, Mathématiques, Automatique et Signal ([IRIMAS](https://irimas.math.cnrs.fr/)), Mulhouse, France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/IRIMAS24.pdf))  
 June 5, 2024. *Organizer:* Nicolas Juillet.
 1. Bio-Maths working group, Denis Poisson Institute ([IDP](https://www.idpoisson.fr/)), Tours, France  
