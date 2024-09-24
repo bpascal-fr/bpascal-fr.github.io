@@ -6,6 +6,26 @@ author_profile: true
 title: "Softwares"
 ---
 
+
+## Risk Estimate under a Nonstationary Autoregressive Model for Data-Driven Reproduction Number Estimation
+
+[APURE-Estim-Epi](https://github.com/bpascal-fr/APURE-Estim-Epi)
+
+COVID-19 pandemic has brought to the fore epidemiological models which, though describing a rich variety of behaviors, have previously received little attention in the signal processing literature.
+During the pandemic, several works successfully leveraged state-of-the-art signal processing strategies to robustly infer epidemiological indicators despite the low quality of COVID-19 data.
+In the present work, a novel nonstationary autoregressive model is introduced, encompassing, but not reducing to, one of the most popular models for the propagation of viral epidemics.
+Using a variational framework, penalized likelihood estimators of the parameters of this new model are designed.
+In practice, the main bottleneck is that the estimation accuracy strongly depends on hyperparameters tuning.
+Without available ground truth, hyperparameters are selected by minimizing specifically designed data-driven oracles, used as proxy for the estimation error.
+Focusing on the nonstationary autoregressive Poisson model, the Stein's Unbiased Risk Estimate formalism is generalized to construct asymptotically unbiased risk estimators based on the derivation of an original autoregressive counterpart of Stein's lemma.
+The accuracy of these oracles and of the resulting estimates are assessed through intensive Monte Carlo simulations on synthetic data.
+Then, elaborating on recent epidemiological models, a novel weekly scaled Poisson model is proposed, enabling to better account for intrinsic variability of the contamination while being robust to reporting errors.
+Finally, the overall data-driven procedure is particularized to the estimation of COVID-19 reproduction number and exemplified on real COVID-19 infection counts in different countries and at different stages of the pandemic, demonstrating its ability to yield consistent estimates.
+
+[GitHub](https://github.com/bpascal-fr/APURE-Estim-Epi) (Matlab toolbox)  
+
+Pascal, B., Vaiter, S. (2024, September). Risk Estimate under a Nonstationary Autoregressive Model for Data-Driven Reproduction Number Estimation. *Submitted*. [arXiv:2409.14937](https://arxiv.org/abs/2409.14937).  
+
 ## Estimation of Covid19 reproduction number via nonsmooth convex optimization
 
 [Covid-Estim-R](https://github.com/bpascal-fr/Covid-Estim-R)
