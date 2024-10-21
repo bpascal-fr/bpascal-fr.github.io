@@ -1,11 +1,11 @@
 ---
-permalink: "/publications/"
+permalink: "/research/"
 layout: single
 # classes: wide
 author_profile: true
 title: ""
 toc: true
-toc_label: "Publications"
+toc_label: "Research"
 toc_sticky: true
 ---
 
