@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
+  - title: "Jobs"
+    url: /jobs/
   - title: "Invited talks"
     url: /invitations/
   - title: "Teaching"
