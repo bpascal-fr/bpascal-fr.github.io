@@ -9,7 +9,7 @@ title: "Talks"
 ## Symposia, mini-courses and conferences without proceedings
 
 * Contributed talk ``**Proximal-Langevin samplers for nonsmooth composite posteriors: Application to the estimation of Covid19 reproduction number**'' ([slides](../assets/pdfs/UQIPI24.pdf))  
-P. Abry, J. Chevallier, G. Fort, **B. Pascal**, N. Pustelnik,
+P. Abry, J. Chevallier, G. Fort, **B. Pascal**, N. Pustelnik,  
 UQ for Inverse Problems and Imaging (UQIPI24),
  [ICMS](https://www.icms.org.uk/UQIPI24), 
  Edinburgh, United Kingdom, September 16-20 2024.
