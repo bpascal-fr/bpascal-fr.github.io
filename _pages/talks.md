@@ -8,7 +8,12 @@ title: "Talks"
 
 ## Symposia, mini-courses and conferences without proceedings
 
-* Invited talk ``**Bilevel optimization for automated data-driven inverse problem resolution**'' ([slides](../assets/pdfs/CIRM24.pdf))  
+* Contributed talk ``**Proximal-Langevin samplers for nonsmooth composite posteriors: Application to the estimation of Covid19 reproduction number**'' ([slides](../assets/pdfs/UQIPI24.pdf))  
+P. Abry, J. Chevallier, G. Fort, **B. Pascal**, N. Pustelnik,
+UQ for Inverse Problems and Imaging (UQIPI24),
+ [ICMS](https://www.icms.org.uk/UQIPI24), 
+ Edinburgh, United Kingdom, September 16-20 2024.
+ * Invited talk ``**Bilevel optimization for automated data-driven inverse problem resolution**'' ([slides](../assets/pdfs/CIRM24.pdf))  
 **B. Pascal**, N. Pustelnik, P. Abry, V. Vidal, and S. Vaiter,  
 Learning and Optimization In Luminy (LOL),
  [Centre International de Rencontres Mathématiques](https://conferences.cirm-math.fr/3003.html), 
@@ -37,7 +42,10 @@ French-Italian workshop on the Mathematics of Imaging, Vision and their Applicat
 
 ## Invited seminars
 
-2. Maths-Signal seminar, Institut de Recherche en Informatique, Mathématiques, Automatique et Signal ([IRIMAS](https://irimas.math.cnrs.fr/)), Mulhouse, France  
+1. Journées Textures de l'ANR [Mistic](https://mistic.math.cnrs.fr/), Laboratoire de Mathématiques de Bretagne Atlantique ([LBMA](http://web.univ-ubs.fr/lmba/)), Vannes, France  
+``**Detection of change in cancer breast tissues from fractal indicators: A brief introduction**'' ([slides](../assets/pdfs/MISTIC24.pdf))  
+October 10, 2024. *Organizer:* Claire Launay.
+1. Maths-Signal seminar, Institut de Recherche en Informatique, Mathématiques, Automatique et Signal ([IRIMAS](https://irimas.math.cnrs.fr/)), Mulhouse, France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/IRIMAS24.pdf))  
 June 5, 2024. *Organizer:* Nicolas Juillet.
 1. Bio-Maths working group, Institut Denis Poisson ([IDP](https://www.idpoisson.fr/)), Tours, France  
