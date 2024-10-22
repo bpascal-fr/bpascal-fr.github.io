@@ -44,7 +44,7 @@ French-Italian workshop on the Mathematics of Imaging, Vision and their Applicat
 
 1. Journées Textures de l'ANR [Mistic](https://mistic.math.cnrs.fr/), Laboratoire de Mathématiques de Bretagne Atlantique ([LBMA](http://web.univ-ubs.fr/lmba/)), Vannes, France  
 ``**Detection of change in cancer breast tissues from fractal indicators: A brief introduction**'' ([slides](../assets/pdfs/MISTIC24.pdf))  
-October 10, 2024. *Organizer:* Claire Launay.
+October 10-11, 2024. *Organizer:* Claire Launay.
 1. Maths-Signal seminar, Institut de Recherche en Informatique, Mathématiques, Automatique et Signal ([IRIMAS](https://irimas.math.cnrs.fr/)), Mulhouse, France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/IRIMAS24.pdf))  
 June 5, 2024. *Organizer:* Nicolas Juillet.
