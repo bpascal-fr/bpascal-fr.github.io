@@ -1,9 +1,9 @@
 ---
-permalink: "/invitations/"
+permalink: "/talks/"
 layout: home
 classes: wide
 author_profile: true
-title: "Invited talks"
+title: "Talks"
 ---
 
 ## Symposia, mini-courses and conferences without proceedings

@@ -4,8 +4,8 @@ main:
     url: /research/
   - title: "Jobs"
     url: /jobs/
-  - title: "Invited talks"
-    url: /invitations/
+  - title: "Talks"
+    url: /talks/
   - title: "Teaching"
     url: /teaching/
   - title: "Softwares"
