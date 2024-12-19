@@ -42,6 +42,9 @@ French-Italian workshop on the Mathematics of Imaging, Vision and their Applicat
 
 ## Invited seminars
 
+1. Séminaire de l'équipe SIGMA, [CRIStAL](https://www.cristal.univ-lille.fr/spip.php?page=rubrique&id_rubrique=1) Lille  
+``**The Kravchuk transform: A novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/CRISTAL24.pdf))  
+December 4, 2024. *Organizer:* Vincent Itier.
 1. Journées Textures de l'ANR [Mistic](https://mistic.math.cnrs.fr/), Laboratoire de Mathématiques de Bretagne Atlantique ([LBMA](http://web.univ-ubs.fr/lmba/)), Vannes, France  
 ``**Detection of change in cancer breast tissues from fractal indicators: A brief introduction**'' ([slides](../assets/pdfs/MISTIC24.pdf))  
 October 10-11, 2024. *Organizer:* Claire Launay.
@@ -77,13 +80,13 @@ October 18, 2022. *Organizer:* Damien Garreau.
 September 28, 2022. *Organizer:* Titouan Vayer.
 1. Seminar of SIMUL team, Centre de Recherche en Automatique de Nancy ([CRAN](http://www.cran.univ-lorraine.fr/)), France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/CRAN22.pdf))  
-July 12th, 2022. *Organizer:* Julien Flamant.
+July 12, 2022. *Organizer:* Julien Flamant.
 1. Signal and Machine Learning seminar, Institut de Mathématiques de Marseille ([I2M](https://www.i2m.univ-amu.fr/)), France  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/I2M22.pdf))  
 March 18, 2022.  *Organizer:* Caroline Chaux.
 1. Workshop on Point Processes and Applications, [CRIStAL](https://www.cristal.univ-lille.fr/spip.php?page=rubrique&id_rubrique=1) & [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), University of Lille  
 ``**The Kravchuk transform: a novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/gt-kravchuk.pdf))  
-March 11th, 2022. *Organizers:* Mylène Maida et Michaël Fanuel.
+March 11, 2022. *Organizers:* Mylène Maida et Michaël Fanuel.
 1. Groupe de travail Image, Mathématiques Appliquées à Paris 5 ([MAP5](https://map5.mi.parisdescartes.fr/)), Université de Paris  
 ``**Analyse de données non stationnaires : représentations, théorie, algorithmes et applications.**'' ([slides](../assets/pdfs/MAP522.pdf))  
 March 7, 2022. *Organizer:* Rémy Abergel.
@@ -92,10 +95,10 @@ March 7, 2022. *Organizer:* Rémy Abergel.
 December 16, 2021. *Organizer:* Guillaume Becq.
 1. Seminar of the Signal IMage et Son (SIMS) team, [LS2N](https://www.ls2n.fr/), Nantes, France
 ``**Processing nonstationary data: representations, theory, algorithms and applications**'' ([slides](../assets/pdfs/Nantes21.pdf))  
-December 10th, 2021. *Organizer:* Clément Huneau.
+December 10, 2021. *Organizer:* Clément Huneau.
 1. Séminaire de Statistique et Optimisation, [Institut de Mathématiques de Toulouse](https://www.math.univ-toulouse.fr/)  
 ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/Toulouse21.pdf))  
-October 12th, 2021. *Organizers:* Mélisande Albert, Adrien Mazoyer and Pierre Weiss.
+October 12, 2021. *Organizers:* Mélisande Albert, Adrien Mazoyer and Pierre Weiss.
 1. Workshop on Point Processes and Applications, [CRIStAL](https://www.cristal.univ-lille.fr/spip.php?page=rubrique&id_rubrique=1) & [Laboratoire Paul Painlevé](https://math.univ-lille.fr/), University of Lille, France  
 ``**A link between Majorana Stellar representation of pure spin states and Coulomb gas on the sphere**"  ([slides](../assets/pdfs/gt-pp.pdf))  
 May 28, 2021. *Organizer:* Mylène Maida.
@@ -113,17 +116,21 @@ March 12th, 2020. *Organizers:* Arthur Leclaire and Camille Male.
 March 3, 2020. *Organizers:* Pierre-Antoine Thouvenin and Vincent Itier.
 1. Image and Signal Processing Seminars, [ICTEAM](https://uclouvain.be/en/research-institutes/icteam), Université Catholique de Louvain  
 ``**How scale-free texture segmentation turns out to be a strongly convex optimization problem?**'' ([slides](../assets/pdfs/UCL2019.pdf))  
-December 10th, 2020. *Organizer:* [Laurent Jacques](https://laurentjacques.gitlab.io/).
+December 10, 2020. *Organizer:* [Laurent Jacques](https://laurentjacques.gitlab.io/).
 {: reversed="reversed"}
 
 ## Presentation in research groups
+
+1. Presentation of the paper ``**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**" ([arXiv](https://arxiv.org/pdf/2409.04384),[slides](../assets/pdfs/RG-Bayesian-Diffusion_DPP.pdf))  
+*Reading group of the research team of [R.Bardenet](http://rbardenet.github.io/)*  
+December 4, 2024
 3. Presentation of the paper ``**Algorithmes proximaux rapides déroulés pour l’analyse d’images fractales homogènes par morceaux**" ([hal](https://hal.science/hal-03621545/document),[slides](../assets/pdfs/ML22.pdf))  
 *Machine Learning reading group of [SIMS](https://sims.ls2n.fr/) team*  
 December 6, 2022
 1. Presentation of the paper ``**Quasi Monte Carlo Time-Frequency Analysis**" ([arXiv](https://arxiv.org/pdf/2011.02025.pdf),[slides](../assets/pdfs/Avron_qMCTF.pdf))  
 *Reading group of the research team of [R.Bardenet](http://rbardenet.github.io/)*  
-May 12th, 2021
+May 12, 2021
 1. Presentation of the paper ``**Free fermions and α-determinantal processes**" ([arXiv](https://arxiv.org/pdf/1811.11556.pdf),[slides](../assets/pdfs/FreeFermions_BPascal.pdf))  
 *Reading group of the research team of [R.Bardenet](http://rbardenet.github.io/)*  
-November 12th, 2020
+November 12, 2020
 {: reversed="reversed"}
