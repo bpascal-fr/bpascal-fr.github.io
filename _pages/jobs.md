@@ -11,10 +11,12 @@ toc_sticky: true
 
 # Master internships
 **Unrolled proximal algorithms for Covid-19 reproduction number estimation**  
-Detailed subject [here](../assets/pdfs/internship2425_unroll-covid_LS2N.pdf)  
+Detailed subject [here](../assets/pdfs/internship2425_unroll-covid_LS2N.pdf).   
 *Supervision:* [Barbara Pascal](https://bpascal-fr.github.io/) (barbara.pascal *at* cnrs.fr) and [Sébastien Bourguignon](https://www.ec-nantes.fr/english-version/directory/sebastien-bourguignon) (sebastien.bourguignon *at* ec-nantes.fr)  
 *Location:* Laboratoire des Sciences du Numérique de Nantes, École Centrale Nantes  
 *Application:* Send a CV,  master grades, references and motivations.  
+**The offer has been filled.** 
+
 
 **Optimal transport for inverse problems applied to epidemiology**  
 Detailed subject [here](../assets/pdfs/internship2425_optimal-transport-Covid_LS2N.pdf)  
@@ -27,8 +29,16 @@ Detailed subject [here](../assets/pdfs/internship2425_optimal-transport-Covid_LS
 
 
 # Postdocs
-**Graph signal processing for epidemiology**  
-Details and application [here](https://emploi.cnrs.fr/Offres/CDD/UMR6004-BARPAS-003/Default.aspx)  
+**Signal processing and Monte Carlo methods applied to epidemiology**  
+Detailed offer [here](../assets/pdfs/PostdocOffer-3.pdf)  
+*Duration:* 12 months, renewable once   
 *Projet:* [OptiMoCSI](https://anr.fr/Project-ANR-23-CE48-0009) funded by Agence Nationale de la Recherche ([ANR](https://anr.fr/))  
 *Location:* Laboratoire des Sciences du Numérique de Nantes, École Centrale Nantes  
 *Application:* Send a CV and a motivation letter.
+
+**Graph signal processing for epidemiology**  
+Details and application [here](https://emploi.cnrs.fr/Offres/CDD/UMR6004-BARPAS-003/Default.aspx)  
+*Duration:* 12 months  
+*Location:* Laboratoire des Sciences du Numérique de Nantes, École Centrale Nantes  
+*Application:* Send a CV and a motivation letter.  
+**The offer has been filled.** 
