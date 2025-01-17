@@ -30,11 +30,11 @@ Detailed subject [here](../assets/pdfs/internship2425_optimal-transport-Covid_LS
 
 # Postdocs
 **Signal processing and Monte Carlo methods applied to epidemiology**  
-Detailed offer [here](../assets/pdfs/PostdocOffer-3.pdf)  
+Detailed offer [pdf](../assets/pdfs/PostdocOffer-3.pdf) and [CNRS job portal](https://emploi.cnrs.fr/Offres/CDD/UMR6004-BARPAS-005/Default.aspx).  
 *Duration:* 12 months, renewable once   
 *Projet:* [OptiMoCSI](https://anr.fr/Project-ANR-23-CE48-0009) funded by Agence Nationale de la Recherche ([ANR](https://anr.fr/))  
 *Location:* Laboratoire des Sciences du Numérique de Nantes, École Centrale Nantes  
-*Application:* Send a CV and a motivation letter.
+*Application:* Upload a CV and a motivation letter on the CNRS portal [here](https://emploi.cnrs.fr/Offres/CDD/UMR6004-BARPAS-005/Default.aspx).
 
 **Graph signal processing for epidemiology**  
 Details and application [here](https://emploi.cnrs.fr/Offres/CDD/UMR6004-BARPAS-003/Default.aspx)  
