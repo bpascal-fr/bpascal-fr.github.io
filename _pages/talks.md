@@ -8,12 +8,17 @@ title: "Talks"
 
 ## Symposia, mini-courses and conferences without proceedings
 
+* Invited talk ``**Bilevel optimization for automated data-driven inverse problem resolution**'' ([slides](../assets/pdfs/MIA25.pdf))  
+**B. Pascal**, N. Pustelnik, P. Abry, V. Vidal, and S. Vaiter,  
+Mathematics and Image Analysis conference
+ [MIA'25](https://rt-maiages.math.cnrs.fr/mia25/mia25/), 
+ Paris, France, January 13-15 2025.
 * Contributed talk ``**Proximal-Langevin samplers for nonsmooth composite posteriors: Application to the estimation of Covid19 reproduction number**'' ([slides](../assets/pdfs/UQIPI24.pdf))  
 P. Abry, J. Chevallier, G. Fort, **B. Pascal**, N. Pustelnik,  
 UQ for Inverse Problems and Imaging (UQIPI24),
  [ICMS](https://www.icms.org.uk/UQIPI24), 
  Edinburgh, United Kingdom, September 16-20 2024.
- * Invited talk ``**Bilevel optimization for automated data-driven inverse problem resolution**'' ([slides](../assets/pdfs/CIRM24.pdf))  
+* Invited talk ``**Bilevel optimization for automated data-driven inverse problem resolution**'' ([slides](../assets/pdfs/CIRM24.pdf))  
 **B. Pascal**, N. Pustelnik, P. Abry, V. Vidal, and S. Vaiter,  
 Learning and Optimization In Luminy (LOL),
  [Centre International de Rencontres Mathématiques](https://conferences.cirm-math.fr/3003.html), 
