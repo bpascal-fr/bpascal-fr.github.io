@@ -47,6 +47,9 @@ French-Italian workshop on the Mathematics of Imaging, Vision and their Applicat
 
 ## Invited seminars
 
+1. [Séminaire Cristolien d'Analyse Multifractale](https://sites.math.u-pem.fr/scam/) (SCAM), Université Paris-Est Créteil, Créteil  
+``**Detection of change in cancer breast tissues from fractal indicators: A brief introduction**'' ([slides](../assets/pdfs/SCAM25.pdf))  
+January 23, 2025. *Organizers:* Stéphane Seuret and Stéphane Jaffard.
 1. Séminaire de l'équipe SIGMA, [CRIStAL](https://www.cristal.univ-lille.fr/spip.php?page=rubrique&id_rubrique=1) Lille  
 ``**The Kravchuk transform: A novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/CRISTAL24.pdf))  
 December 4, 2024. *Organizer:* Vincent Itier.
