@@ -9,7 +9,15 @@ toc_label: "Jobs"
 toc_sticky: true
 ---
 
-# Master internships
+# Licence and Master internships
+
+**Breast cancer risk assessment based on anistropic fractal features using deep learning techniques**  
+Detailed subject [here](../assets/pdfs/internship2425_mammo_ENSL.pdf).   
+*Supervision:*  [Patrice Abry](https://perso.ens-lyon.fr/patrice.abry/) (patrice.abry *at* ens-lyon.fr) and  [Barbara Pascal](https://bpascal-fr.github.io/) (barbara.pascal *at* cnrs.fr)  
+*Location:* Laboratoire de Physique, École Normale Supérieure de Lyon  
+*Level and duration:* 3 to 4 months for L3 or M1 students  
+*Application:* Send a CV, grade reports, references and motivations.  
+
 **Unrolled proximal algorithms for Covid-19 reproduction number estimation**  
 Detailed subject [here](../assets/pdfs/internship2425_unroll-covid_LS2N.pdf).   
 *Supervision:* [Barbara Pascal](https://bpascal-fr.github.io/) (barbara.pascal *at* cnrs.fr) and [Sébastien Bourguignon](https://www.ec-nantes.fr/english-version/directory/sebastien-bourguignon) (sebastien.bourguignon *at* ec-nantes.fr)  
