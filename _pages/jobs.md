@@ -15,7 +15,7 @@ toc_sticky: true
 Detailed subject [here](../assets/pdfs/internship2425_mammo_ENSL.pdf).   
 *Supervision:*  [Patrice Abry](https://perso.ens-lyon.fr/patrice.abry/) (patrice.abry *at* ens-lyon.fr) and  [Barbara Pascal](https://bpascal-fr.github.io/) (barbara.pascal *at* cnrs.fr)  
 *Location:* Laboratoire de Physique, École Normale Supérieure de Lyon  
-*Level and duration:* 3 to 4 months for L3 or M1 students  
+*Level and duration:* 4 to 6 months
 *Application:* Send a CV, grade reports, references and motivations.  
 
 **Unrolled proximal algorithms for Covid-19 reproduction number estimation**  
