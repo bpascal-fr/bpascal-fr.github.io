@@ -130,7 +130,7 @@ December 10, 2020. *Organizer:* [Laurent Jacques](https://laurentjacques.gitlab.
 ## Presentation in research groups
 
 1. Presentation of the paper ``**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**" ([arXiv](https://arxiv.org/pdf/2409.04384),[slides](../assets/pdfs/RG-Bayesian-Diffusion_DPP.pdf))  
-*Reading group of the research team of [R.Bardenet](http://rbardenet.github.io/)*  
+*Machine Learning reading group of [SIMS](https://sims.ls2n.fr/) team*  
 December 4, 2024
 3. Presentation of the paper ``**Algorithmes proximaux rapides déroulés pour l’analyse d’images fractales homogènes par morceaux**" ([hal](https://hal.science/hal-03621545/document),[slides](../assets/pdfs/ML22.pdf))  
 *Machine Learning reading group of [SIMS](https://sims.ls2n.fr/) team*  
