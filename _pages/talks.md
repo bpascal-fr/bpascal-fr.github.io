@@ -8,6 +8,11 @@ title: "Talks"
 
 ## Symposia, mini-courses and conferences without proceedings
 
+* Contributed talk ``**Bilevel optimization for automated data-driven inverse problem resolution**'' ([slides](../assets/pdfs/IASIS25.pdf))  
+**B. Pascal**, S. Vaiter, N. Pustelnik, P. Abry, and V. Vidal
+Journée scientifique du GDR IASIS: *Bilevel Optimization and Hyperparameter Learning,*
+ [IASIS](https://gdr-iasis.cnrs.fr/reunions/bilevel-optimization-and-hyperparameter-learning/), 
+ Lyon, France, March 25 2025.
 * Invited talk ``**Bilevel optimization for automated data-driven inverse problem resolution**'' ([slides](../assets/pdfs/MIA25.pdf))  
 **B. Pascal**, N. Pustelnik, P. Abry, V. Vidal, and S. Vaiter,  
 Mathematics and Image Analysis conference
