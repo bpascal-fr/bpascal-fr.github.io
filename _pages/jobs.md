@@ -17,6 +17,7 @@ Detailed subject [here](../assets/pdfs/internship2425_mammo_ENSL.pdf).
 *Location:* Laboratoire de Physique, École Normale Supérieure de Lyon  
 *Level and duration:* 4 to 6 months
 *Application:* Send a CV, grade reports, references and motivations.  
+**The offer has been filled.** 
 
 **Unrolled proximal algorithms for Covid-19 reproduction number estimation**  
 Detailed subject [here](../assets/pdfs/internship2425_unroll-covid_LS2N.pdf).   
