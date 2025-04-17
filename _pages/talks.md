@@ -10,7 +10,7 @@ title: "Talks"
 
 * Contributed talk ``**Detection of change in cancer breast tissues from fractal indicators: A brief introduction**'' ([slides](../assets/pdfs/ANAIS-MAIAGES25.pdf))  
 **B. Pascal**, P. Abry, N. Pustelnik, L. Davy, B. Audit, A. Khalil, K. Batchelder   
-[Journées RT² ANAIS-MAIAGES 2025](https://fractaleavannes.sciencesconf.org/) : *Aléatoire et Fractales*, 
+Journées RT² ANAIS-MAIAGES 2025: [*Aléatoire et Fractales*](https://fractaleavannes.sciencesconf.org/), 
 Vannes, France, April 2-4, 2025.
 * Contributed talk ``**Bilevel optimization for automated data-driven inverse problem resolution**'' ([slides](../assets/pdfs/IASIS25.pdf))  
 **B. Pascal**, S. Vaiter, N. Pustelnik, P. Abry, and V. Vidal  
