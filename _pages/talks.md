@@ -11,51 +11,54 @@ title: "Talks"
 * Contributed talk ``**Detection of change in cancer breast tissues from fractal indicators: A brief introduction**'' ([slides](../assets/pdfs/ANAIS-MAIAGES25.pdf))  
 **B. Pascal**, P. Abry, N. Pustelnik, L. Davy, B. Audit, A. Khalil, K. Batchelder   
 [Journées RT² ANAIS-MAIAGES 2025](https://fractaleavannes.sciencesconf.org/) : *Aléatoire et Fractales*, 
-Vannes, France, April 2-4 2025.
+Vannes, France, April 2-4, 2025.
 * Contributed talk ``**Bilevel optimization for automated data-driven inverse problem resolution**'' ([slides](../assets/pdfs/IASIS25.pdf))  
 **B. Pascal**, S. Vaiter, N. Pustelnik, P. Abry, and V. Vidal  
 Journée scientifique du GDR IASIS: *Bilevel Optimization and Hyperparameter Learning,*
  [IASIS](https://gdr-iasis.cnrs.fr/reunions/bilevel-optimization-and-hyperparameter-learning/), 
- Lyon, France, March 25 2025.
+ Lyon, France, March 25, 2025.
 * Invited talk ``**Bilevel optimization for automated data-driven inverse problem resolution**'' ([slides](../assets/pdfs/MIA25.pdf))  
 **B. Pascal**, N. Pustelnik, P. Abry, V. Vidal, and S. Vaiter,  
 Mathematics and Image Analysis conference
  [MIA'25](https://rt-maiages.math.cnrs.fr/mia25/mia25/), 
- Paris, France, January 13-15 2025.
+ Paris, France, January 13-15, 2025.
 * Contributed talk ``**Proximal-Langevin samplers for nonsmooth composite posteriors: Application to the estimation of Covid19 reproduction number**'' ([slides](../assets/pdfs/UQIPI24.pdf))  
 P. Abry, J. Chevallier, G. Fort, **B. Pascal**, N. Pustelnik,  
 UQ for Inverse Problems and Imaging (UQIPI24),
  [ICMS](https://www.icms.org.uk/UQIPI24), 
- Edinburgh, United Kingdom, September 16-20 2024.
+ Edinburgh, United Kingdom, September 16-20, 2024.
 * Invited talk ``**Bilevel optimization for automated data-driven inverse problem resolution**'' ([slides](../assets/pdfs/CIRM24.pdf))  
 **B. Pascal**, N. Pustelnik, P. Abry, V. Vidal, and S. Vaiter,  
 Learning and Optimization In Luminy (LOL),
  [Centre International de Rencontres Mathématiques](https://conferences.cirm-math.fr/3003.html), 
- Marseille, France, June 17-21 2024.
+ Marseille, France, June 17-21, 2024.
 * Invited talk ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/CRM23.pdf))  
 **B. Pascal**, N. Pustelnik, P. Abry, V. Vidal, and S. Vaiter,  
 Summer School on Harmonic and Multifractal Analyses: from Mathematics to Quantitative Neuroscience,
  [Centre de Recherches Mathématiques](https://www.crmath.ca/en/activities/#/type/activity/id/3885), 
- Montréal, Canada, July 3-14 2023.
+ Montréal, Canada, July 3-14, 2023.
 * Invited talk ``**Proximal schemes for the estimation of the reproduction number of Covid19 pandemic: from convex optimization to Monte Carlo sampling**'' ([slides](../assets/pdfs/SISYPHE22.pdf))  
 **B. Pascal**, G. Fort, N. Pustelnik, and P. Abry,  
 Workshop on Variational approaches for signal and image processing,
- [Laboratoire de Physique, ENS Lyon](http://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing/mlsp22_SiSyPhe), Lyon, France, November 18 2022.
+ [Laboratoire de Physique, ENS Lyon](http://www.ens-lyon.fr/PHYSIQUE/seminars/machine-learning-and-signal-processing/mlsp22_SiSyPhe), Lyon, France, November 18, 2022.
 * Invited talk ``**Texture segmentation based on fractal attributes using convex functional minimization with generalized Stein formalism for automated regularization parameter selection**'' ([slides](../assets/pdfs/MIA22.pdf))  
 **B. Pascal**, N. Pustelnik, S. Vaiter and P. Abry,  
-French-Italian workshop on the Mathematics of Imaging, Vision and their Applications [MIA-MIVA](https://sites.google.com/view/workshop-mia-miva/home), Sophia-Antiplois, France, September 12-14 2022.
+French-Italian workshop on the Mathematics of Imaging, Vision and their Applications [MIA-MIVA](https://sites.google.com/view/workshop-mia-miva/home), Sophia-Antiplois, France, September 12-14, 2022.
 * Mini-course ``**Point processes and spatial statistics in time-frequency analysis**'', ([slides](../assets/pdfs/SP-and-GAF_B-Pascal.pdf), [codes](https://github.com/bpascal-fr/GeoSto-PP-for-TF))  
 **B. Pascal**, and R. Bardenet,  
-[Stochastic Geometry Days](https://www.mathconf.org/sgd2021), Dunkerque, France, November 15-19 2021.
+[Stochastic Geometry Days](https://www.mathconf.org/sgd2021), Dunkerque, France, November 15-19, 2021.
 * Poster presentation ``**Joint estimation of local variance and local regularity for texture segmentation**'' ([poster](../assets/pdfs/CS18.pdf))  
 **B. Pascal**, N. Pustelnik, and P. Abry,  
- [Curves and Surfaces](https://cs2018.sciencesconf.org/), Arcachon, France, June 28 au 4 July 4 2018.
+ [Curves and Surfaces](https://cs2018.sciencesconf.org/), Arcachon, France, June 28 to 4 July 4, 2018.
 * Mini-symposium presentation ``**Combining Local Regularity Estimation and Total Variation Optimization for Scale-Free Texture Segmentation**'' ([slides](../assets/pdfs/siam2018.pdf))  
 **B. Pascal**, N. Pustelnik, and P. Abry,  
-[SIAM IS](https://www.siam-is18.dm.unibo.it/), Bologna, Italy, June 5-8 2018.
+[SIAM IS](https://www.siam-is18.dm.unibo.it/), Bologna, Italy, June 5-8, 2018.
 
 ## Invited seminars
 
+1. [Séminaire Matrices et graphes aléatoires](https://www.ceremade.dauphine.fr/dokuwiki/mega:seminaire) (MEGA), Institut Henri Poincaré, Paris  
+``**The Kravchuk transform: A novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/MEGA25.pdf))  
+April 4, 2025. *Organizers:* Raphaël Butez, Guillaume Dubach.
 1. [Séminaire Cristolien d'Analyse Multifractale](https://sites.math.u-pem.fr/scam/) (SCAM), Université Paris-Est Créteil, Créteil  
 ``**Detection of change in cancer breast tissues from fractal indicators: A brief introduction**'' ([slides](../assets/pdfs/SCAM25.pdf))  
 January 23, 2025. *Organizers:* Stéphane Seuret and Stéphane Jaffard.
