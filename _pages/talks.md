@@ -56,6 +56,9 @@ French-Italian workshop on the Mathematics of Imaging, Vision and their Applicat
 
 ## Invited seminars
 
+1. Journées ANR Mistic ([MISTIC](https://mistic.math.cnrs.fr/?p=150)), Lyon, France  
+``**Detectability of patches in fractal textures for assessing Hölder exponent-based breast cancer risk evaluation**'' ([slides](../assets/pdfs/MISTIC25.pdf))  
+May 26, 2025. *Organizer:* Céline Lacaux.
 1. [Séminaire Matrices et graphes aléatoires](https://www.ceremade.dauphine.fr/dokuwiki/mega:seminaire) (MEGA), Institut Henri Poincaré, Paris  
 ``**The Kravchuk transform: A novel covariant representation for discrete signals amenable to zero-based detection tests**'' ([slides](../assets/pdfs/MEGA25.pdf))  
 April 4, 2025. *Organizers:* Raphaël Butez, Guillaume Dubach.
