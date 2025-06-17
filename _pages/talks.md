@@ -56,6 +56,9 @@ French-Italian workshop on the Mathematics of Imaging, Vision and their Applicat
 
 ## Invited seminars
 
+1. ACM Seminar ([MACS](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences/events.htm)), Edinburgh, United Kingdom  
+``**Proximal schemes for the estimation of the reproduction number of Covid19 pandemic: from convex optimization to Monte Carlo sampling**'' ([slides](../assets/pdfs/ACM25.pdf))  
+June 13, 2025. *Organizer:* Lorenzo Pareschi.
 1. Journées ANR Mistic ([MISTIC](https://mistic.math.cnrs.fr/?p=150)), Lyon, France  
 ``**Detectability of patches in fractal textures for assessing Hölder exponent-based breast cancer risk evaluation**'' ([slides](../assets/pdfs/MISTIC25.pdf))  
 May 26, 2025. *Organizer:* Céline Lacaux.
