@@ -11,7 +11,8 @@ title: "Talks"
 * Mini-course ``**Multiscale analysis in image processing: from inverse problem resolution and invariance properties to deep learning**'',  
 (slides: [Preliminaries](../assets/pdfs/0-Preliminaries.pdf), [Introduction](../assets/pdfs/1-Introduction.pdf))  
 **B. Pascal**, and N. Pustelnik,  
-[Deuxièmes Journées de l’axe Analyse Multifractale et Applications](https://anais.math.cnrs.fr/conferences/deuxiemes-journees-de-laxe-analyse-multifractale-et-applications/), Agay, France, June 22-26, 2025.
+[Deuxièmes Journées de l’axe Analyse Multifractale et Applications](https://anais.math.cnrs.fr/conferences/deuxiemes-journees-de-laxe-analyse-multifractale-et-applications/),  
+Agay, France, June 22-26, 2025.
 * Contributed talk ``**Detection of change in cancer breast tissues from fractal indicators: A brief introduction**'' ([slides](../assets/pdfs/ANAIS-MAIAGES25.pdf))  
 **B. Pascal**, P. Abry, N. Pustelnik, L. Davy, B. Audit, A. Khalil, K. Batchelder   
 Journées RT² ANAIS-MAIAGES 2025: [*Aléatoire et Fractales*](https://fractaleavannes.sciencesconf.org/), 
