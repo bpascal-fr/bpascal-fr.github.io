@@ -9,7 +9,7 @@ title: "Talks"
 ## Symposia, mini-courses and conferences without proceedings
 
 * Mini-course ``**Multiscale analysis in image processing: from inverse problem resolution and invariance properties to deep learning**'',  
-(slides: [Preliminaries](../assets/pdfs/0-Preliminaries.pdf), [Introduction](../assets/pdfs/1-Introduction.pdf))  
+(slides: [Preliminaries](../assets/pdfs/0-Preliminaries.pdf), [Introduction](../assets/pdfs/1-Introduction.pdf), [Optimization](../assets/pdfs/2-Optimization.pdf), [Scale invariance](../assets/pdfs/3-Scale_invariance.pdf), [Multilevel](...assets/pdfs/4-Multilevel.pdf))  
 **B. Pascal**, and N. Pustelnik,  
 [Deuxièmes Journées de l’axe Analyse Multifractale et Applications](https://anais.math.cnrs.fr/conferences/deuxiemes-journees-de-laxe-analyse-multifractale-et-applications/),  
 Agay, France, June 22-26, 2025.
