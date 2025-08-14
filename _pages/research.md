@@ -45,7 +45,7 @@ toc_sticky: true
   {% bibliography --query @unpublished %}
 {% endif %}
 
-<!-- Journal articles-->
+<!-- Books -->
 {% capture counter_book %}{% bibliography_count --query @book %}{% endcapture %}
 {% if counter_book != "0" %}
 
@@ -54,7 +54,16 @@ toc_sticky: true
   {% bibliography --query @book %}
 {% endif %}
 
-<!-- Journal articles-->
+<!-- Book chapters -->
+{% capture counter_chapter %}{% bibliography_count --query @incollection %}{% endcapture %}
+{% if counter_chapter != "0" %}
+
+## Book chapters
+
+  {% bibliography --query @incollection %}
+{% endif %}
+
+<!-- Journal articles -->
 {% capture counter_article %}{% bibliography_count --query @article %}{% endcapture %}
 {% if counter_article != "0" %}
 
