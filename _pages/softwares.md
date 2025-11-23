@@ -6,6 +6,20 @@ author_profile: true
 title: "Softwares"
 ---
 
+## A novel aligned Kravchuk transform based on Spin Spherical Harmonics Transform
+
+[from-kravchuk-to-ssht](https://github.com/bpascal-fr/from-kravchuk-to-ssht)
+
+The recently introduced Kravchuk transform represents discrete signals by a square-integrable function on the unit
+sphere. Its initial formulation has two major drawbacks: on the one hand, a prohibitive computational cost and, on the other, a lack
+of interpretability of its spherical coordinates. By establishing a connection between the Kravchuk transform and the decomposition
+into spin spherical harmonics, a new aligned transform is proposed. Thanks to a new implementation akin to Fast Fourier Transform,
+the new transform and its inverse are computed in a fast and robust manner. Moreover, the new Kravchuk transform can indeed be
+interpreted as a time–frequency transform for discrete signals.  
+
+[GitHub](https://github.com/bpascal-fr/from-kravchuk-to-ssht) (Python toolbox)
+
+Pascal, B., Flamant, J., & Bardenet, R. (2025, August). Transformée de Kravchuk réalignée, implémentation efficace et illustration sur signaux élémentaires et réels. *GRETSI’25 XXXème Colloque Francophone De Traitement Du Signal Et Des Images.* [hal-05013793](https://hal.science/hal-05013793v2/document)
 
 ## Risk Estimate under a Nonstationary Autoregressive Model for Data-Driven Reproduction Number Estimation
 
