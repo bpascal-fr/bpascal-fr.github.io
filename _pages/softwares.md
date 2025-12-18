@@ -38,7 +38,7 @@ Finally, the overall data-driven procedure is particularized to the estimation o
 
 [GitHub](https://github.com/bpascal-fr/APURE-Estim-Epi) (Matlab toolbox)  
 
-Pascal, B., Vaiter, S. (2024, September). Risk Estimate under a Nonstationary Autoregressive Model for Data-Driven Reproduction Number Estimation. *Submitted*. [arXiv:2409.14937](https://arxiv.org/abs/2409.14937).  
+Pascal, B., & Vaiter, S. (2025). Risk estimate under a time-varying autoregressive model for data-driven reproduction number estimation. *Signal Processing,* 110246. [arXiv:2409.14937](https://arXiv.org/abs/2409.14937).  
 
 ## Estimation of Covid19 reproduction number via nonsmooth convex optimization
 
@@ -64,9 +64,9 @@ Fast and memory efficient implementation of the nonsmooth convex optimization pr
 
 [GitHub](https://github.com/bpascal-fr/Covid-Estim-R) (Matlab toolbox)  
 
-P. Abry, N. Pustelnik,S. Roux, P. Jensen, P. Flandrin, R. Gribonval, C.-G. Lucas, É. Guichard, P. Borgnat, and N. Garnier, N. (2020). Spatial and temporal regularization to estimate COVID-19 reproduction number R (t): Promoting piecewise smoothness via convex optimization. *PlosOne*, 15(8), e0237901.
+P. Abry, N. Pustelnik,S. Roux, P. Jensen, P. Flandrin, R. Gribonval, C.-G. Lucas, É. Guichard, P. Borgnat, & N. Garnier, N. (2020). Spatial and temporal regularization to estimate COVID-19 reproduction number R (t): Promoting piecewise smoothness via convex optimization. *PlosOne*, 15(8), e0237901.
 
-B. Pascal, P. Abry, N. Pustelnik, S. Roux, R. Gribonval, and P. Flandrin. (2022). Nonsmooth convex optimization to estimate the Covid-19 reproduction number space-time evolution with robustness against low quality data. *IEEE Transactions on Signal Processing*, 70, 2859-2868. [arxiv:2109.09595](https://arxiv.org/abs/2109.09595)
+B. Pascal, P. Abry, N. Pustelnik, S. Roux, R. Gribonval, & P. Flandrin. (2022). Nonsmooth convex optimization to estimate the Covid-19 reproduction number space-time evolution with robustness against low quality data. *IEEE Transactions on Signal Processing*, 70, 2859-2868. [arXiv:2109.09595](https://arXiv.org/abs/2109.09595)
 
 ## Musical Timbre Perception Models: From Perceptual to Learned Approaches
 
@@ -76,7 +76,7 @@ Timbre, encompassing an intricate set of acoustic cues, is key to identify sound
 
 [GitHub](https://github.com/bpascal-fr/timbre-metric-learning) (Python toolbox) 
 
-B. Pascal, and M. Lagrange. (2024). On the Robustness of Musical Timbre Perception Models: From Perceptual to Learned Approaches. *Submitted*. [hal-04501973](https://hal.science/hal-04501973v1/document)
+B. Pascal, & M. Lagrange. (2024). On the Robustness of Musical Timbre Perception Models: From Perceptual to Learned Approaches. *32nd European Signal Processing Conference,*, Aug. 24-30, Lyon, France. [hal-04501973](https://hal.science/hal-04501973v1/document)
 
 ## Signal detection based on the zeros of the *Kravchuk* spectrogram
 [kravchuk-transform-and-its-zeros](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros)
@@ -85,7 +85,7 @@ Recent work in time-frequency analysis proposed to switch the focus from the max
 
 [GitHub](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros) (Python toolbox)  
 
-B. Pascal, and R. Bardenet, (2022). A covariant, discrete time-frequency representation tailored for zero-based signal detection. *IEEE Transactions on Signal Processing*, 70, 2950-2961. [arxiv:2202.03835](https://arxiv.org/abs/2202.03835)
+B. Pascal, & R. Bardenet, (2022). A covariant, discrete time-frequency representation tailored for zero-based signal detection. *IEEE Transactions on Signal Processing*, 70, 2950-2961. [arXiv:2202.03835](https://arXiv.org/abs/2202.03835)
 
 ## Point processes and spatial statistics in time-frequency analysis
 [GeoSto-PP-for-TF](https://github.com/bpascal-fr/GeoSto-PP-for-TF)
@@ -94,7 +94,10 @@ Point processes in 2D or 3D have been major statistical models for spatial data 
 
 [GitHub](https://github.com/bpascal-fr/GeoSto-PP-for-TF) (Python toolbox)  
 
-R. Bardenet, and B. Pascal. Invited mini-course given at the *Stochastic Geometry Days*, November 15-19, 2021. Dunkerque, France
+R. Bardenet, & B. Pascal. Invited mini-course given at the *Stochastic Geometry Days*, November 15-19, 2021. Dunkerque, France.
+
+Pascal, B., & Bardenet, R. (2025). Point Processes and spatial statistics in time-frequency analysis. In H. Biermé (Ed.), *Stochastic Geometry: Percolation, Tesselations, Gaussian Fields and Point Processes.* Springer. [arXiv:2402.19172](https://arxiv.org/abs/2402.19172)
+
 ## Automated texture segmentation  
 [gsugar](https://github.com/bpascal-fr/gsugar)
 
@@ -102,7 +105,7 @@ Penalized Least Squares are widely used in signal and image processing. Yet, it 
 
 [GitHub](https://github.com/bpascal-fr/gsugar) (Matlab toolbox)  
 
-B. Pascal, S. Vaiter, N. Pustelnik, and P. Abry (2021). Automated data-driven selection of the hyperparameters for Total-Variation based texture segmentation. *Journal of Mathematical Imaging and Vision,* 1–30. [arxiv:2004.09434](https://arxiv.org/abs/2004.09434)
+B. Pascal, S. Vaiter, N. Pustelnik, & P. Abry (2021). Automated data-driven selection of the hyperparameters for Total-Variation based texture segmentation. *Journal of Mathematical Imaging and Vision,* 1–30. [arXiv:2004.09434](https://arXiv.org/abs/2004.09434)
 
 ## Signal and image processing for nonlinear physics  
 [stein-piecewise-filtering](https://github.com/bpascal-fr/stein-piecewise-filtering)
@@ -116,6 +119,6 @@ The interest and potential of these tools are illustrated at work on low-confine
 
 [GitHub](https://github.com/bpascal-fr/stein-piecewise-filtering) (MATLAB toolbox)
 
-B. Pascal, N. Pustelnik, P. Abry, J.-C. Géminard and V. Vidal (2020).
+B. Pascal, N. Pustelnik, P. Abry, J.-C. Géminard & V. Vidal (2020).
 Parameter-free and fast nonlinear piecewise fitering. Application to experimental physics.
-*Annals of Telecommunications,* 75(11), 655-671. [arxiv:2006.03297](https://arxiv.org/abs/2006.03297)
+*Annals of Telecommunications,* 75(11), 655-671. [arXiv:2006.03297](https://arXiv.org/abs/2006.03297)
