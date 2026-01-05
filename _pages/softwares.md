@@ -64,7 +64,7 @@ Fast and memory efficient implementation of the nonsmooth convex optimization pr
 
 [GitHub](https://github.com/bpascal-fr/Covid-Estim-R) (Matlab toolbox)  
 
-P. Abry, N. Pustelnik,S. Roux, P. Jensen, P. Flandrin, R. Gribonval, C.-G. Lucas, É. Guichard, P. Borgnat, & N. Garnier, N. (2020). Spatial and temporal regularization to estimate COVID-19 reproduction number R (t): Promoting piecewise smoothness via convex optimization. *PlosOne*, 15(8), e0237901.
+P. Abry, N. Pustelnik, S. Roux, P. Jensen, P. Flandrin, R. Gribonval, C.-G. Lucas, É. Guichard, P. Borgnat, & N. Garnier, N. (2020). Spatial and temporal regularization to estimate COVID-19 reproduction number R (t): Promoting piecewise smoothness via convex optimization. *PlosOne*, 15(8), e0237901.
 
 B. Pascal, P. Abry, N. Pustelnik, S. Roux, R. Gribonval, & P. Flandrin. (2022). Nonsmooth convex optimization to estimate the Covid-19 reproduction number space-time evolution with robustness against low quality data. *IEEE Transactions on Signal Processing*, 70, 2859-2868. [arXiv:2109.09595](https://arXiv.org/abs/2109.09595)
 
