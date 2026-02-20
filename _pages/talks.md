@@ -6,6 +6,13 @@ author_profile: true
 title: "Talks"
 ---
 
+## Keynote presentations
+
+* ``**Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology**'' ([slides](../assets/pdfs/AIWildWest26.pdf))    
+Mathematics and Image Analysis conference
+ [AI WILD West](https://wildwestworkshop.github.io/), 
+ CentraleSupélec, Rennes, France, January 29-30, 2026.
+
 ## Symposia, mini-courses and conferences without proceedings
 
 * Mini-course ``**Multiscale analysis in image processing: from inverse problem resolution and invariance properties to deep learning**'',  
@@ -22,11 +29,6 @@ Vannes, France, April 2-4, 2025.
 Journée scientifique du GDR IASIS: *Bilevel Optimization and Hyperparameter Learning,*
  [IASIS](https://gdr-iasis.cnrs.fr/reunions/bilevel-optimization-and-hyperparameter-learning/), 
  Lyon, France, March 25, 2025.
-* Invited talk ``**Bilevel optimization for automated data-driven inverse problem resolution**'' ([slides](../assets/pdfs/MIA25.pdf))  
-**B. Pascal**, N. Pustelnik, P. Abry, V. Vidal, and S. Vaiter,  
-Mathematics and Image Analysis conference
- [MIA'25](https://rt-maiages.math.cnrs.fr/mia25/mia25/), 
- Paris, France, January 13-15, 2025.
 * Contributed talk ``**Proximal-Langevin samplers for nonsmooth composite posteriors: Application to the estimation of Covid19 reproduction number**'' ([slides](../assets/pdfs/UQIPI24.pdf))  
 P. Abry, J. Chevallier, G. Fort, **B. Pascal**, N. Pustelnik,  
 UQ for Inverse Problems and Imaging (UQIPI24),
