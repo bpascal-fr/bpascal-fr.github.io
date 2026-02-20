@@ -15,15 +15,31 @@ title: "Talks"
 ---
 
 ## Keynote presentations
-
-* ``**Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology**'' ([slides](../assets/pdfs/AIWildWest26.pdf))    
+ 
+ * ``**Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology**'' ([slides](../assets/pdfs/AIWildWest26.pdf))    
 Artificial Intelligence Workshop on Inverse problem, Learning, imaging & Data science in the West
  [AI WILD West](https://wildwestworkshop.github.io/), 
  CentraleSupélec, Rennes, France, January 29-30, 2026.
 
+## Beyond science
+
+* ``**Sharing experience and good practice**'' ([slides](../assets/pdfs/2026_AI-Women.pdf))    
+AI hackathon for women in the mathematical sciences
+ [ICMS](https://icms.ac.uk/activities/workshop/ai-hackathon/), 
+ Bayes Center, Edinburgh, UK, February 16-20, 2026.
+
+* ``**Chargé.e de recherche au CNRS**'' ([slides](../assets/pdfs/2025-iasis-carriere.pdf))    
+GDR IASIS Journées carrières des doctorant.e.s
+ [IASIS](https://gdr-iasis.cnrs.fr/), 
+ Institut Henri Poincaré, Paris, France, September 19, 2025.
 
 ## Symposia, mini-courses and conferences without proceedings
 
+
+* Invited talk ``**Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology**'' ([slides](../assets/pdfs/ICMS26.pdf))    
+AI hackathon for women in the mathematical sciences
+ [ICMS](https://icms.ac.uk/activities/workshop/ai-hackathon/), 
+ Bayes Center, Edinburgh, UK, February 16-20, 2026.
 * Mini-course ``**Multiscale analysis in image processing: from inverse problem resolution and invariance properties to deep learning**'',  
 (slides: [Preliminaries](../assets/pdfs/0-Preliminaries.pdf), [Introduction](../assets/pdfs/1-Introduction.pdf), [Optimization](../assets/pdfs/2-Optimization.pdf), [Scale invariance](../assets/pdfs/3-Scale_invariance.pdf), [Multilevel](...assets/pdfs/4-Multilevel.pdf))  
 **B. Pascal**, and N. Pustelnik,  
