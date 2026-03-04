@@ -21,6 +21,7 @@ toc_sticky: true
   
 # Alumni
 - Juliana Du (Sept. 2022 - Sept. 2024, **PhD student**, *discontinued*), co-supervised with [P. Abry](https://perso.ens-lyon.fr/patrice.abry/)
+- Juliana Du (Apr. - Aug. 2022, **intern**), Master 2 Applied mathematics and statistics, Université Claude Bernard Lyon 1, France,  co-supervised with [P. Abry](https://perso.ens-lyon.fr/patrice.abry/)
 - Mathis Getenet (May - Sept. 2025, **intern**), fourth-year student at INSA Lyon (M1), co-supervised with [P. Abry](https://perso.ens-lyon.fr/patrice.abry/), [L. Davy](https://perso.ens-lyon.fr/leo.davy/), [N. Pustelnik](https://perso.ens-lyon.fr/nelly.pustelnik/) and [B. Audit](https://perso.ens-lyon.fr/benjamin.audit/) in collaboration with [A. Khalil](https://umaine.edu/compumaine/)
 - Oïhana Turon (May - July 2025, **intern**), third-year student Bachelor of Statistics at Mc Gill University, co-supervised with [S. Bourguignon](https://pagespersowp.ls2n.fr/sebastienbourguignon/) and [J. Idier](https://pagespersowp.ls2n.fr/jeromeidier/en/jerome-idier-3/)
 - Benjamin Pineau (Apr. - Aug. 2025, **intern**), second-year student at Ecole Centrale Nantes (M1), co-supervised with [S. Bourguignon](https://pagespersowp.ls2n.fr/sebastienbourguignon/)
