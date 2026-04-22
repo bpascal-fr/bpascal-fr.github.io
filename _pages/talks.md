@@ -21,23 +21,28 @@ Artificial Intelligence Workshop on Inverse problem, Learning, imaging & Data sc
  [AI WILD West](https://wildwestworkshop.github.io/), 
  CentraleSupélec, Rennes, France, January 29-30, 2026.
 
+## Dissemination
+
+* ``**Traitement du signal et des images : où physique, mathématiques, algorithmique et art se rencontrent**'' ([slides](../assets/pdfs/2026-mej-liege.pdf))    
+Congrès MATh.en.JEANS Belgique 2026,
+ [MATh.en.JEANS](https://www.mathenjeans.be/congres2026), 
+ Liège, Belgique, April 20, 2026.
+
 ## Beyond science
 
 * ``**Sharing experience and good practice**'' ([slides](../assets/pdfs/2026_AI-Women.pdf))    
-AI hackathon for women in the mathematical sciences
- [ICMS](https://icms.ac.uk/activities/workshop/ai-hackathon/), 
+AI hackathon for women in the mathematical sciences, [ICMS](https://icms.ac.uk/activities/workshop/ai-hackathon/), 
  Bayes Center, Edinburgh, UK, February 16-20, 2026.
 
 * ``**Chargé.e de recherche au CNRS**'' ([slides](../assets/pdfs/2025-iasis-carriere.pdf))    
-GDR IASIS Journées carrières des doctorant.e.s
- [IASIS](https://gdr-iasis.cnrs.fr/), 
+GDR IASIS Journées carrières des doctorant.e.s, [IASIS](https://gdr-iasis.cnrs.fr/), 
  Institut Henri Poincaré, Paris, France, September 19, 2025.
 
 ## Symposia, mini-courses and conferences without proceedings
 
 
 * Invited talk ``**Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology**'' ([slides](../assets/pdfs/ICMS26.pdf))    
-AI hackathon for women in the mathematical sciences
+AI hackathon for women in the mathematical sciences,
  [ICMS](https://icms.ac.uk/activities/workshop/ai-hackathon/), 
  Bayes Center, Edinburgh, UK, February 16-20, 2026.
 * Mini-course ``**Multiscale analysis in image processing: from inverse problem resolution and invariance properties to deep learning**'',  
