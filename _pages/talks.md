@@ -6,14 +6,6 @@ author_profile: true
 title: "Talks"
 ---
 
----
-permalink: "/talks/"
-layout: home
-classes: wide
-author_profile: true
-title: "Talks"
----
-
 ## Keynote presentations
  
  * ``**Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology**'' ([slides](../assets/pdfs/AIWildWest26.pdf))    
