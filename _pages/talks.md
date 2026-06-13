@@ -94,6 +94,9 @@ French-Italian workshop on the Mathematics of Imaging, Vision and their Applicat
 
 ## Invited seminars
 
+1. MIND/SODA seminar, [INRIA Saclay](https://www.inria.fr/fr/centre-inria-de-saclay) Palaiseau  
+``**Viral epidemic monitoring: statistical modeling and (unfolded) robust estimators of the reproduction number**'' ([slides](../assets/pdfs/INRIA26.pdf))  
+June 9, 2026. *Organizer:* Marie Generali.
 1. ACM Seminar ([MACS](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences/events.htm)), Edinburgh, United Kingdom  
 ``**Proximal schemes for the estimation of the reproduction number of Covid19 pandemic: from convex optimization to Monte Carlo sampling**'' ([slides](../assets/pdfs/ACM25.pdf))  
 June 13, 2025. *Organizer:* Lorenzo Pareschi.
