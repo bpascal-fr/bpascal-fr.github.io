@@ -32,6 +32,10 @@ GDR IASIS Journées carrières des doctorant.e.s, [IASIS](https://gdr-iasis.cnrs
 
 ## Symposia, mini-courses and conferences without proceedings
 
+* Contributed talk ``**A Scaled Poisson Bayesian Model for Viral Epidemic Monitoring**'', ([slides](../assets/pdfs/2026-iasis-bayesian-slides_BPascal.pdf))  
+Journée scientifique du GDR IASIS: *Bayesian inference for inverse problems,*
+ [IASIS](https://gdr-iasis.cnrs.fr/reunions/bayesian-inference-for-inverse-problems/), 
+ Institut Henri Poincaré, Paris, France, June 11, 2026.
 * Mini-course ``**Multi-resolution in image analysis**'',  
 (slides: [Preliminaries](../assets/pdfs/Preliminaries_BIP.pdf), [Scale invariance](../assets/pdfs/Scale_invariance_BIP.pdf); lab session: [Instructions](../assets/pdfs/lab-session_BIP.pdf), [Code isotropic textures](../assets/data/isotropic_fractal_textures.pdf))    
 ERASMUS+ International PhD Summer School, 
