@@ -32,7 +32,11 @@ GDR IASIS Journées carrières des doctorant.e.s, [IASIS](https://gdr-iasis.cnrs
 
 ## Symposia, mini-courses and conferences without proceedings
 
-
+* Mini-course ``**Multi-resolution in image analysis**'',  
+(slides: [Preliminaries](../assets/pdfs/Preliminaries_BIP.pdf), [Scale invariance](../assets/pdfs/Scale_invariance_BIP.pdf); lab session: [Instructions](../assets/pdfs/lab-session_BIP.pdf), [Code isotropic textures](../assets/data/isotropic_fractal_textures.pdf))    
+ERASMUS+ International PhD Summer School, 
+[Mathematics and Machine Learning for Image Analysis](https://site.unibo.it/mml-imaging26/en),  
+Bologna, Italy, June 9-17, 2026.
 * Invited talk ``**Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology**'' ([slides](../assets/pdfs/ICMS26.pdf))    
 AI hackathon for women in the mathematical sciences,
  [ICMS](https://icms.ac.uk/activities/workshop/ai-hackathon/), 
