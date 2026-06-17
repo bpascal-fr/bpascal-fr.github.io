@@ -37,7 +37,7 @@ Journée scientifique du GDR IASIS: *Bayesian inference for inverse problems,*
  [IASIS](https://gdr-iasis.cnrs.fr/reunions/bayesian-inference-for-inverse-problems/), 
  Institut Henri Poincaré, Paris, France, June 11, 2026.
 * Mini-course ``**Multi-resolution in image analysis**'',  
-(slides: [Preliminaries](../assets/pdfs/Preliminaries_BIP.pdf), [Scale invariance](../assets/pdfs/Scale_invariance_BIP.pdf); lab session: [Instructions](../assets/pdfs/lab-session_BIP.pdf), [Code isotropic textures](../assets/data/isotropic_fractal_textures.m))    
+(slides: [Preliminaries](../assets/pdfs/Preliminaries_BIP.pdf), [Scale invariance](../assets/pdfs/Scale_invariance_BIP.pdf); lab session: [Instructions](../assets/pdfs/lab-session_BIP.pdf), Code isotropic textures [`Matlab`](../assets/data/isotropic_fractal_textures.m), [`Python`](../assets/data/isotropic_fractal_textures.ipynb), [`data`](../assets/data/from_Matlab.mat))    
 ERASMUS+ International PhD Summer School, 
 [Mathematics and Machine Learning for Image Analysis](https://site.unibo.it/mml-imaging26/en),  
 Bologna, Italy, June 9-17, 2026.
