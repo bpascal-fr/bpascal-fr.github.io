@@ -99,7 +99,7 @@ f2.Position = [131 178 1168 539];
 
 %% 4. ROF FUNCTIONAL WITH MANUAL CHOICE OF REGULARIZATION PARAMETER
 
-% Chosen regularization parameter
+% Small value of the regularization parameter
 lambda_rof = 0.5;
 
 % Minimization of the ROF functional
