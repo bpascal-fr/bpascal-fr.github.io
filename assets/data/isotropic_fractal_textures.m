@@ -102,6 +102,12 @@ f2.Position = [131 178 1168 539];
 % Small value of the regularization parameter
 lambda_rof = 0.5;
 
+% % Medium value of the regularization parameter
+% lambda_rof = 5;
+% 
+% % Large value of the regularization parameter
+% lambda_rof = 50;
+
 % Minimization of the ROF functional
 if run
     x_rof_man = rof_manual(L_X,lambda_rof);
