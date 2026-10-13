@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"breadcrumbs.enabled": true,
+		"explorer.sortOrder": "type",
+		"workbench.colorTheme": "Julia (Monokai Classic)",
+		"workbench.activityBar.visible": true,
+		"workbench.editorAssociations": {
+			"*.ipynb": "jupyter-notebook"
+		},
+		"workbench.sideBar.location": "right",
+		"workbench.statusBar.visible": true,
+		"editor.tokenColorCustomizations": null,
+		"terminal.integrated.defaultProfile.osx": "zsh",
+		"terminal.integrated.fontFamily": "Meslo LG L DZ for Powerline",
+		"terminal.integrated.commandsToSkipShell": [
+			"language-julia.interrupt"
+		],
+		"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+		"latex-workshop.latex.autoBuild.run": "never",
+		"latex-workshop.chktex.enabled": true,
+		"latex-workshop.view.pdf.viewer": "tab",
+		"latex-workshop.bibtex-format.tab": "4 spaces",
+		"latex-workshop.bibtex-format.trailingComma": true,
+		"latex-workshop.bibtex-format.sort.enabled": true,
+		"latex-workshop.bibtex-fields.sort.enabled": true,
+		"python.languageServer": "Pylance",
+		"autoDocstring.docstringFormat": "sphinx",
+		"pythonIndent.trimLinesWithOnlyWhitespace": true
+	}
+}
